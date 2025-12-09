@@ -1,0 +1,7288 @@
+{
+  "2025-04-07": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-06": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-05": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-02": {
+    "AAPL": {
+      "price": 223.89,
+      "change_percent": 0.31363412339262003
+    },
+    "MSFT": {
+      "price": 382.14,
+      "change_percent": -0.013082498233865713
+    },
+    "GOOGL": {
+      "price": 157.04,
+      "change_percent": -0.019099764436239345
+    },
+    "AMZN": {
+      "price": 196.01,
+      "change_percent": 1.9982307332049767
+    },
+    "META": {
+      "price": 583.93,
+      "change_percent": -0.35324232081912116
+    },
+    "TSLA": {
+      "price": 282.76,
+      "change_percent": 5.3266780898457915
+    },
+    "NVDA": {
+      "price": 110.42,
+      "change_percent": 0.24512029051293327
+    },
+    "JPM": {
+      "price": 244.42,
+      "change_percent": 0.8916040617518354
+    },
+    "JNJ": {
+      "price": 155.36,
+      "change_percent": 1.3768352365416074
+    },
+    "V": {
+      "price": 346.33,
+      "change_percent": -0.005774505557972759
+    },
+    "WMT": {
+      "price": 89.76,
+      "change_percent": 1.0469436001350971
+    },
+    "PG": {
+      "price": 169.5,
+      "change_percent": -0.6214821763602264
+    },
+    "MA": {
+      "price": 547.38,
+      "change_percent": -0.2060126524584776
+    },
+    "HD": {
+      "price": 370.89,
+      "change_percent": 1.4691398555482613
+    },
+    "BAC": {
+      "price": 41.85,
+      "change_percent": 0.8676789587852481
+    }
+  },
+  "2025-04-03": {
+    "AAPL": {
+      "price": 203.19,
+      "change_percent": -9.245611684309255
+    },
+    "MSFT": {
+      "price": 373.11,
+      "change_percent": -2.3630083215575373
+    },
+    "GOOGL": {
+      "price": 150.72,
+      "change_percent": -4.024452368823225
+    },
+    "AMZN": {
+      "price": 178.41,
+      "change_percent": -8.979133717667462
+    },
+    "META": {
+      "price": 531.62,
+      "change_percent": -8.95826554552771
+    },
+    "TSLA": {
+      "price": 267.28,
+      "change_percent": -5.4746074409393195
+    },
+    "NVDA": {
+      "price": 101.8,
+      "change_percent": -7.806556783191455
+    },
+    "JPM": {
+      "price": 227.29,
+      "change_percent": -7.008428115538826
+    },
+    "JNJ": {
+      "price": 159.82,
+      "change_percent": 2.870751802265692
+    },
+    "V": {
+      "price": 339.39,
+      "change_percent": -2.003869142147662
+    },
+    "WMT": {
+      "price": 87.26,
+      "change_percent": -2.785204991087344
+    },
+    "PG": {
+      "price": 172.39,
+      "change_percent": 1.705014749262529
+    },
+    "MA": {
+      "price": 530.55,
+      "change_percent": -3.0746464978625525
+    },
+    "HD": {
+      "price": 355.91,
+      "change_percent": -4.038933376472798
+    },
+    "BAC": {
+      "price": 37.22,
+      "change_percent": -11.063321385902036
+    }
+  },
+  "2023-04-07": {
+    "AAPL": {
+      "price": 162.45,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 285.58,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 107.62,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 102.06,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 213.575,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 185.06,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 26.981,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 118.17,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 156.67,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 221.83,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 48.6317,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 144.4312,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 356.17,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 271.04,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 25.88,
+      "change_percent": 0.0
+    }
+  },
+  "2023-04-06": {
+    "AAPL": {
+      "price": 162.45,
+      "change_percent": 0.5571030640668382
+    },
+    "MSFT": {
+      "price": 285.58,
+      "change_percent": 2.608508192009195
+    },
+    "GOOGL": {
+      "price": 107.62,
+      "change_percent": 3.8101668756631644
+    },
+    "AMZN": {
+      "price": 102.06,
+      "change_percent": 0.9495548961424412
+    },
+    "META": {
+      "price": 213.575,
+      "change_percent": 2.211002368931098
+    },
+    "TSLA": {
+      "price": 185.06,
+      "change_percent": -0.247951703320401
+    },
+    "NVDA": {
+      "price": 26.981,
+      "change_percent": 0.5815470643056938
+    },
+    "JPM": {
+      "price": 118.17,
+      "change_percent": -0.11833319246048564
+    },
+    "JNJ": {
+      "price": 156.67,
+      "change_percent": -0.29275122510024054
+    },
+    "V": {
+      "price": 221.83,
+      "change_percent": -0.9731708405874642
+    },
+    "WMT": {
+      "price": 48.6317,
+      "change_percent": 0.7806444927986729
+    },
+    "PG": {
+      "price": 144.4312,
+      "change_percent": 0.669123838094321
+    },
+    "MA": {
+      "price": 356.17,
+      "change_percent": -0.6471589165667085
+    },
+    "HD": {
+      "price": 271.04,
+      "change_percent": -0.022132054592402164
+    },
+    "BAC": {
+      "price": 25.88,
+      "change_percent": 0.7788161993769442
+    }
+  },
+  "2025-04-01": {
+    "AAPL": {
+      "price": 223.19,
+      "change_percent": 0.47719803718543297
+    },
+    "MSFT": {
+      "price": 382.19,
+      "change_percent": 1.8114494259303688
+    },
+    "GOOGL": {
+      "price": 157.07,
+      "change_percent": 1.5713916192447017
+    },
+    "AMZN": {
+      "price": 192.17,
+      "change_percent": 1.0038894144854391
+    },
+    "META": {
+      "price": 586.0,
+      "change_percent": 1.6725657575126631
+    },
+    "TSLA": {
+      "price": 268.46,
+      "change_percent": 3.5885167464114653
+    },
+    "NVDA": {
+      "price": 110.15,
+      "change_percent": 1.6331426462447043
+    },
+    "JPM": {
+      "price": 242.26,
+      "change_percent": -0.6724067240672468
+    },
+    "JNJ": {
+      "price": 153.25,
+      "change_percent": -7.5916546068499775
+    },
+    "V": {
+      "price": 346.35,
+      "change_percent": -1.1727443930833639
+    },
+    "WMT": {
+      "price": 88.83,
+      "change_percent": 1.1846451759881442
+    },
+    "PG": {
+      "price": 170.56,
+      "change_percent": 0.08214998239644102
+    },
+    "MA": {
+      "price": 548.51,
+      "change_percent": 0.07115230241552696
+    },
+    "HD": {
+      "price": 365.52,
+      "change_percent": -0.26467297879888324
+    },
+    "BAC": {
+      "price": 41.49,
+      "change_percent": -0.5751258087706563
+    }
+  },
+  "2025-04-04": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": -7.288744524828979
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": -3.5565918897912248
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": -3.3970276008492597
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": -4.153354632587858
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": -5.058124224069822
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": -10.41978449565997
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": -7.357563850687618
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": -7.483831228826605
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": -4.117131773244891
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": -7.737411237809008
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": -4.664221865688754
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": -5.011891641046457
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": -7.686363207991702
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": -0.5647495153269219
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": -7.603439011284252
+    }
+  },
+  "2025-05-11": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-08": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-09": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-17": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-16": {
+    "AAPL": {
+      "price": 188.38,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 359.84,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 145.6,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 171.0,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 504.73,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 94.31,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 210.28,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 153.24,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 313.13,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.19,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.75,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 489.77,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 353.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 34.39,
+      "change_percent": 0.0
+    }
+  },
+  "2025-03-26": {
+    "AAPL": {
+      "price": 221.53,
+      "change_percent": -0.9921787709497202
+    },
+    "MSFT": {
+      "price": 389.97,
+      "change_percent": -1.3133920437291218
+    },
+    "GOOGL": {
+      "price": 165.06,
+      "change_percent": -3.224671669793621
+    },
+    "AMZN": {
+      "price": 201.13,
+      "change_percent": -2.2264352729570813
+    },
+    "META": {
+      "price": 610.98,
+      "change_percent": -2.4476696843416086
+    },
+    "TSLA": {
+      "price": 272.06,
+      "change_percent": -5.58062053168598
+    },
+    "NVDA": {
+      "price": 113.76,
+      "change_percent": -5.741983594332582
+    },
+    "JPM": {
+      "price": 249.63,
+      "change_percent": -0.04004324670644068
+    },
+    "JNJ": {
+      "price": 161.72,
+      "change_percent": 0.4347286051422113
+    },
+    "V": {
+      "price": 344.18,
+      "change_percent": -0.12767686147060464
+    },
+    "WMT": {
+      "price": 85.21,
+      "change_percent": 0.5309108069844132
+    },
+    "PG": {
+      "price": 166.58,
+      "change_percent": 2.290451335584905
+    },
+    "MA": {
+      "price": 549.07,
+      "change_percent": 0.7172206324748848
+    },
+    "HD": {
+      "price": 362.13,
+      "change_percent": 0.3157982215573801
+    },
+    "BAC": {
+      "price": 42.82,
+      "change_percent": -1.0628465804066562
+    }
+  },
+  "2025-03-27": {
+    "AAPL": {
+      "price": 223.85,
+      "change_percent": 1.0472622218209693
+    },
+    "MSFT": {
+      "price": 390.58,
+      "change_percent": 0.1564222888940064
+    },
+    "GOOGL": {
+      "price": 162.24,
+      "change_percent": -1.7084696474009409
+    },
+    "AMZN": {
+      "price": 201.36,
+      "change_percent": 0.11435390046239656
+    },
+    "META": {
+      "price": 602.58,
+      "change_percent": -1.3748404203083533
+    },
+    "TSLA": {
+      "price": 273.13,
+      "change_percent": 0.39329559655957996
+    },
+    "NVDA": {
+      "price": 111.43,
+      "change_percent": -2.048171589310828
+    },
+    "JPM": {
+      "price": 246.72,
+      "change_percent": -1.1657252734046375
+    },
+    "JNJ": {
+      "price": 163.13,
+      "change_percent": 0.8718773188226543
+    },
+    "V": {
+      "price": 349.86,
+      "change_percent": 1.6502992620140644
+    },
+    "WMT": {
+      "price": 85.63,
+      "change_percent": 0.4928998943785961
+    },
+    "PG": {
+      "price": 168.71,
+      "change_percent": 1.2786649057509878
+    },
+    "MA": {
+      "price": 557.57,
+      "change_percent": 1.5480721948021197
+    },
+    "HD": {
+      "price": 362.73,
+      "change_percent": 0.165686355728612
+    },
+    "BAC": {
+      "price": 42.56,
+      "change_percent": -0.607192900513774
+    }
+  },
+  "2025-03-31": {
+    "AAPL": {
+      "price": 222.13,
+      "change_percent": 1.9412574575493298
+    },
+    "MSFT": {
+      "price": 375.39,
+      "change_percent": -0.9002111932418227
+    },
+    "GOOGL": {
+      "price": 154.64,
+      "change_percent": 0.20086826929305632
+    },
+    "AMZN": {
+      "price": 190.26,
+      "change_percent": -1.2764632627646366
+    },
+    "META": {
+      "price": 576.36,
+      "change_percent": -0.06588757499046284
+    },
+    "TSLA": {
+      "price": 259.16,
+      "change_percent": -1.6657180800607043
+    },
+    "NVDA": {
+      "price": 108.38,
+      "change_percent": -1.176256040849828
+    },
+    "JPM": {
+      "price": 243.9,
+      "change_percent": 1.0147028370263065
+    },
+    "JNJ": {
+      "price": 165.84,
+      "change_percent": 1.3010811801356028
+    },
+    "V": {
+      "price": 350.46,
+      "change_percent": 2.2196295756161457
+    },
+    "WMT": {
+      "price": 87.79,
+      "change_percent": 3.1004110393423376
+    },
+    "PG": {
+      "price": 170.42,
+      "change_percent": 1.4223650538594217
+    },
+    "MA": {
+      "price": 548.12,
+      "change_percent": 1.3891714914633453
+    },
+    "HD": {
+      "price": 366.49,
+      "change_percent": 2.3286332542231
+    },
+    "BAC": {
+      "price": 41.73,
+      "change_percent": 1.163636363636356
+    }
+  },
+  "2025-03-30": {
+    "AAPL": {
+      "price": 217.9,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 378.8,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 154.33,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 192.72,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 576.74,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 263.55,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 109.67,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 241.45,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 163.71,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 342.85,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 85.15,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 168.03,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 540.61,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 358.15,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 41.25,
+      "change_percent": 0.0
+    }
+  },
+  "2025-03-19": {
+    "AAPL": {
+      "price": 215.24,
+      "change_percent": 1.1989280173021821
+    },
+    "MSFT": {
+      "price": 387.82,
+      "change_percent": 1.1211931581143126
+    },
+    "GOOGL": {
+      "price": 163.89,
+      "change_percent": 2.00410779859339
+    },
+    "AMZN": {
+      "price": 195.54,
+      "change_percent": 1.4106420495799186
+    },
+    "META": {
+      "price": 584.06,
+      "change_percent": 0.29191565354762206
+    },
+    "TSLA": {
+      "price": 235.86,
+      "change_percent": 4.6824375305135195
+    },
+    "NVDA": {
+      "price": 117.52,
+      "change_percent": 1.8106211556787568
+    },
+    "JPM": {
+      "price": 239.11,
+      "change_percent": 1.7619270545176042
+    },
+    "JNJ": {
+      "price": 162.99,
+      "change_percent": -0.7671232876712273
+    },
+    "V": {
+      "price": 339.87,
+      "change_percent": 1.5234339994623243
+    },
+    "WMT": {
+      "price": 86.095,
+      "change_percent": 0.8669673715658074
+    },
+    "PG": {
+      "price": 168.57,
+      "change_percent": 0.5127899350068482
+    },
+    "MA": {
+      "price": 536.09,
+      "change_percent": 1.1128086157792445
+    },
+    "HD": {
+      "price": 353.42,
+      "change_percent": 1.1013530909403046
+    },
+    "BAC": {
+      "price": 42.21,
+      "change_percent": 1.3445378151260559
+    }
+  },
+  "2025-03-20": {
+    "AAPL": {
+      "price": 214.1,
+      "change_percent": -0.5296413306077006
+    },
+    "MSFT": {
+      "price": 386.84,
+      "change_percent": -0.25269454901759014
+    },
+    "GOOGL": {
+      "price": 162.8,
+      "change_percent": -0.6650802367441424
+    },
+    "AMZN": {
+      "price": 194.95,
+      "change_percent": -0.301728546588935
+    },
+    "META": {
+      "price": 586.0,
+      "change_percent": 0.33215765503545097
+    },
+    "TSLA": {
+      "price": 236.26,
+      "change_percent": 0.1695921309251154
+    },
+    "NVDA": {
+      "price": 118.53,
+      "change_percent": 0.8594281824370364
+    },
+    "JPM": {
+      "price": 239.01,
+      "change_percent": -0.04182175567731284
+    },
+    "JNJ": {
+      "price": 163.02,
+      "change_percent": 0.0184060371801958
+    },
+    "V": {
+      "price": 339.5,
+      "change_percent": -0.10886515432371334
+    },
+    "WMT": {
+      "price": 85.575,
+      "change_percent": -0.603983971194606
+    },
+    "PG": {
+      "price": 167.55,
+      "change_percent": -0.6050898736429863
+    },
+    "MA": {
+      "price": 536.38,
+      "change_percent": 0.05409539443003294
+    },
+    "HD": {
+      "price": 355.52,
+      "change_percent": 0.5941938769735629
+    },
+    "BAC": {
+      "price": 42.48,
+      "change_percent": 0.6396588486140631
+    }
+  },
+  "2025-03-25": {
+    "AAPL": {
+      "price": 223.75,
+      "change_percent": 1.3681873782449192
+    },
+    "MSFT": {
+      "price": 395.16,
+      "change_percent": 0.5291543706115908
+    },
+    "GOOGL": {
+      "price": 170.56,
+      "change_percent": 1.7175572519083944
+    },
+    "AMZN": {
+      "price": 205.71,
+      "change_percent": 1.2053527501722017
+    },
+    "META": {
+      "price": 626.31,
+      "change_percent": 1.2054617435565844
+    },
+    "TSLA": {
+      "price": 288.14,
+      "change_percent": 3.5022809727360897
+    },
+    "NVDA": {
+      "price": 120.69,
+      "change_percent": -0.5930318754633053
+    },
+    "JPM": {
+      "price": 251.13,
+      "change_percent": 1.237603805530917
+    },
+    "JNJ": {
+      "price": 161.02,
+      "change_percent": -1.3901647375834294
+    },
+    "V": {
+      "price": 344.62,
+      "change_percent": 0.21810567947189347
+    },
+    "WMT": {
+      "price": 84.76,
+      "change_percent": -3.120356612184238
+    },
+    "PG": {
+      "price": 162.85,
+      "change_percent": -1.6903108964684646
+    },
+    "MA": {
+      "price": 545.16,
+      "change_percent": 0.27406331046407
+    },
+    "HD": {
+      "price": 360.99,
+      "change_percent": -0.7642191494625651
+    },
+    "BAC": {
+      "price": 43.28,
+      "change_percent": 0.487578360807989
+    }
+  },
+  "2025-04-20": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-18": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-26": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-05-03": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-12": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-11": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-05-01": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-05-14": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-10": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-15": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-14": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-13": {
+    "AAPL": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 357.86,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 146.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 175.26,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 516.25,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 233.29,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 97.64,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 214.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.62,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.32,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 83.83,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 160.23,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 485.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 341.51,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 35.58,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-27": {
+    "AAPL": {
+      "price": 198.85,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 390.49,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 158.71,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 191.1,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 585.77,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 272.2,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 114.33,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 234.34,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 150.97,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 332.43,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 89.6,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 162.32,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 515.43,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 355.39,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 37.15,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-21": {
+    "AAPL": {
+      "price": 196.98,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 367.78,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 151.16,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 172.61,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 501.48,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 241.37,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 101.49,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 231.96,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 157.47,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.61,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 93.22,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 170.63,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 517.33,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 355.06,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 37.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-04-22": {
+    "AAPL": {
+      "price": 196.98,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 367.78,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 151.16,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 172.61,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 501.48,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 241.37,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 101.49,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 231.96,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 157.47,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.61,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 93.22,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 170.63,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 517.33,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 355.06,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 37.41,
+      "change_percent": 0.0
+    }
+  },
+  "2020-12-08": {
+    "AAPL": {
+      "price": 120.165,
+      "change_percent": 0.5270422888693769
+    },
+    "MSFT": {
+      "price": 204.47,
+      "change_percent": 0.8483353884093705
+    },
+    "GOOGL": {
+      "price": 89.7665,
+      "change_percent": -0.31648556659246185
+    },
+    "AMZN": {
+      "price": 158.8645,
+      "change_percent": 0.6108296390120245
+    },
+    "META": {
+      "price": 501.48,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 216.6267,
+      "change_percent": 1.2652860882572983
+    },
+    "NVDA": {
+      "price": 13.258,
+      "change_percent": -1.900139106757038
+    },
+    "JPM": {
+      "price": 103.0,
+      "change_percent": 0.11664074650078204
+    },
+    "JNJ": {
+      "price": 133.3,
+      "change_percent": 1.9736842105263255
+    },
+    "V": {
+      "price": 205.25,
+      "change_percent": 0.05849948812948108
+    },
+    "WMT": {
+      "price": 46.3317,
+      "change_percent": 0.9735207584177834
+    },
+    "PG": {
+      "price": 122.3381,
+      "change_percent": 0.30335800918436073
+    },
+    "MA": {
+      "price": 329.87,
+      "change_percent": -0.05150890801115498
+    },
+    "HD": {
+      "price": 227.86,
+      "change_percent": -0.4021330535885949
+    },
+    "BAC": {
+      "price": 25.11,
+      "change_percent": -0.6331618519984177
+    }
+  },
+  "2025-01-09": {
+    "AAPL": {
+      "price": 242.45,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 423.73,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 193.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 222.13,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 610.195,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 394.94,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 140.1,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 241.73,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 142.27,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 312.01,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 91.565,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 161.0935,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 514.12,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 384.9,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 45.95,
+      "change_percent": 0.0
+    }
+  },
+  "2025-01-08": {
+    "AAPL": {
+      "price": 242.45,
+      "change_percent": 0.20251281203503912
+    },
+    "MSFT": {
+      "price": 423.73,
+      "change_percent": 0.5195236513735346
+    },
+    "GOOGL": {
+      "price": 193.75,
+      "change_percent": -0.7885708433611511
+    },
+    "AMZN": {
+      "price": 222.13,
+      "change_percent": 0.009004547296376484
+    },
+    "META": {
+      "price": 610.195,
+      "change_percent": -1.161387509819954
+    },
+    "TSLA": {
+      "price": 394.94,
+      "change_percent": 0.14707373973019172
+    },
+    "NVDA": {
+      "price": 140.1,
+      "change_percent": -0.021408691928923952
+    },
+    "JPM": {
+      "price": 241.73,
+      "change_percent": -0.016544649873855507
+    },
+    "JNJ": {
+      "price": 142.27,
+      "change_percent": -2.7080626410449153
+    },
+    "V": {
+      "price": 312.01,
+      "change_percent": 0.2989584672753012
+    },
+    "WMT": {
+      "price": 91.565,
+      "change_percent": 1.093016836875512
+    },
+    "PG": {
+      "price": 161.0935,
+      "change_percent": 0.4990844918852052
+    },
+    "MA": {
+      "price": 514.12,
+      "change_percent": 0.9820867379006913
+    },
+    "HD": {
+      "price": 384.9,
+      "change_percent": 0.7776294085303512
+    },
+    "BAC": {
+      "price": 45.95,
+      "change_percent": 0.28371890004365463
+    }
+  },
+  "2025-03-13": {
+    "AAPL": {
+      "price": 209.68,
+      "change_percent": -3.364365379297624
+    },
+    "MSFT": {
+      "price": 378.77,
+      "change_percent": -1.1741070263782711
+    },
+    "GOOGL": {
+      "price": 162.76,
+      "change_percent": -2.6030758183232736
+    },
+    "AMZN": {
+      "price": 193.89,
+      "change_percent": -2.5139524360199106
+    },
+    "META": {
+      "price": 590.115,
+      "change_percent": -4.671787540284469
+    },
+    "TSLA": {
+      "price": 240.68,
+      "change_percent": -2.9868192994477796
+    },
+    "NVDA": {
+      "price": 115.58,
+      "change_percent": -0.1382408847416594
+    },
+    "JPM": {
+      "price": 223.79,
+      "change_percent": -1.1964679911699816
+    },
+    "JNJ": {
+      "price": 162.99,
+      "change_percent": 0.08596868283697562
+    },
+    "V": {
+      "price": 328.55,
+      "change_percent": -1.2889075832231593
+    },
+    "WMT": {
+      "price": 84.265,
+      "change_percent": -0.8238686517978023
+    },
+    "PG": {
+      "price": 168.59,
+      "change_percent": 0.13066460770921118
+    },
+    "MA": {
+      "price": 519.07,
+      "change_percent": -0.918149194472006
+    },
+    "HD": {
+      "price": 347.25,
+      "change_percent": -4.188395000413875
+    },
+    "BAC": {
+      "price": 39.67,
+      "change_percent": -0.6013530443497742
+    }
+  },
+  "2025-03-06": {
+    "AAPL": {
+      "price": 235.33,
+      "change_percent": -0.17392042080257766
+    },
+    "MSFT": {
+      "price": 396.89,
+      "change_percent": -1.029873821754525
+    },
+    "GOOGL": {
+      "price": 172.15,
+      "change_percent": -0.38768661034601754
+    },
+    "AMZN": {
+      "price": 200.7,
+      "change_percent": -3.676329429832993
+    },
+    "META": {
+      "price": 627.405,
+      "change_percent": -4.350974548170971
+    },
+    "TSLA": {
+      "price": 263.45,
+      "change_percent": -5.607309208169127
+    },
+    "NVDA": {
+      "price": 110.56,
+      "change_percent": -5.737914570722145
+    },
+    "JPM": {
+      "price": 245.14,
+      "change_percent": -1.994962619437896
+    },
+    "JNJ": {
+      "price": 165.83,
+      "change_percent": 0.4299903100775242
+    },
+    "V": {
+      "price": 344.16,
+      "change_percent": -2.41578768288533
+    },
+    "WMT": {
+      "price": 94.405,
+      "change_percent": -1.3995508903859244
+    },
+    "PG": {
+      "price": 174.66,
+      "change_percent": 0.02863524425862376
+    },
+    "MA": {
+      "price": 549.06,
+      "change_percent": -1.5209671054991605
+    },
+    "HD": {
+      "price": 379.43,
+      "change_percent": -1.2029683634943378
+    },
+    "BAC": {
+      "price": 41.2,
+      "change_percent": -1.9747799191053967
+    }
+  },
+  "2024-06-13": {
+    "AAPL": {
+      "price": 213.24,
+      "change_percent": 0.551704625831101
+    },
+    "MSFT": {
+      "price": 439.17,
+      "change_percent": 0.1185455374444406
+    },
+    "GOOGL": {
+      "price": 174.56,
+      "change_percent": -1.4842824087138076
+    },
+    "AMZN": {
+      "price": 183.83,
+      "change_percent": -1.6373267697575977
+    },
+    "META": {
+      "price": 502.075,
+      "change_percent": -0.9352525083117131
+    },
+    "TSLA": {
+      "price": 182.47,
+      "change_percent": 2.9217665971007993
+    },
+    "NVDA": {
+      "price": 129.58,
+      "change_percent": 3.523208436526333
+    },
+    "JPM": {
+      "price": 188.61,
+      "change_percent": 1.142213642213655
+    },
+    "JNJ": {
+      "price": 142.97,
+      "change_percent": 0.027985727279082096
+    },
+    "V": {
+      "price": 269.49,
+      "change_percent": 0.32387759660487103
+    },
+    "WMT": {
+      "price": 66.05,
+      "change_percent": 0.5939689308559254
+    },
+    "PG": {
+      "price": 163.3905,
+      "change_percent": 0.7585077747046843
+    },
+    "MA": {
+      "price": 441.4,
+      "change_percent": 0.4551661356395085
+    },
+    "HD": {
+      "price": 341.08,
+      "change_percent": 1.1086737416256625
+    },
+    "BAC": {
+      "price": 38.48,
+      "change_percent": -0.38829924928813275
+    }
+  },
+  "2024-06-14": {
+    "AAPL": {
+      "price": 211.49,
+      "change_percent": -0.8206715438004126
+    },
+    "MSFT": {
+      "price": 440.16,
+      "change_percent": 0.22542523396407066
+    },
+    "GOOGL": {
+      "price": 176.19,
+      "change_percent": 0.9337763519706666
+    },
+    "AMZN": {
+      "price": 183.66,
+      "change_percent": -0.09247674481859104
+    },
+    "META": {
+      "price": 502.635,
+      "change_percent": 0.11153712094806598
+    },
+    "TSLA": {
+      "price": 178.01,
+      "change_percent": -2.444237408889137
+    },
+    "NVDA": {
+      "price": 131.85,
+      "change_percent": 1.7518135514739785
+    },
+    "JPM": {
+      "price": 188.73,
+      "change_percent": 0.06362334976935269
+    },
+    "JNJ": {
+      "price": 143.06,
+      "change_percent": 0.06295026928726545
+    },
+    "V": {
+      "price": 268.96,
+      "change_percent": -0.19666777988052603
+    },
+    "WMT": {
+      "price": 66.37,
+      "change_percent": 0.48448145344437155
+    },
+    "PG": {
+      "price": 163.7705,
+      "change_percent": 0.23257166114308692
+    },
+    "MA": {
+      "price": 441.03,
+      "change_percent": -0.08382419574082568
+    },
+    "HD": {
+      "price": 340.04,
+      "change_percent": -0.30491380321331174
+    },
+    "BAC": {
+      "price": 38.46,
+      "change_percent": -0.05197505197504163
+    }
+  },
+  "2024-06-15": {
+    "AAPL": {
+      "price": 211.49,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 440.16,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 176.19,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 183.66,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 502.635,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 178.01,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 131.85,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 188.73,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 143.06,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 268.96,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 66.37,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 163.7705,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 441.03,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 340.04,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 38.46,
+      "change_percent": 0.0
+    }
+  },
+  "2025-02-20": {
+    "AAPL": {
+      "price": 245.83,
+      "change_percent": 0.39204475844325887
+    },
+    "MSFT": {
+      "price": 416.13,
+      "change_percent": 0.529062182925061
+    },
+    "GOOGL": {
+      "price": 184.36,
+      "change_percent": -0.38363862322363407
+    },
+    "AMZN": {
+      "price": 222.88,
+      "change_percent": -1.654679433437762
+    },
+    "META": {
+      "price": 694.315,
+      "change_percent": -1.2698277271789986
+    },
+    "TSLA": {
+      "price": 354.4,
+      "change_percent": -1.7084535167517265
+    },
+    "NVDA": {
+      "price": 140.1,
+      "change_percent": 0.6320930900732621
+    },
+    "JPM": {
+      "price": 265.4,
+      "change_percent": -4.480834982904461
+    },
+    "JNJ": {
+      "price": 159.68,
+      "change_percent": 1.1337006776870102
+    },
+    "V": {
+      "price": 350.49,
+      "change_percent": -1.334346761253275
+    },
+    "WMT": {
+      "price": 96.975,
+      "change_percent": -6.543632245940352
+    },
+    "PG": {
+      "price": 167.21,
+      "change_percent": 0.43245840591026413
+    },
+    "MA": {
+      "price": 562.52,
+      "change_percent": -0.9194349526191614
+    },
+    "HD": {
+      "price": 392.34,
+      "change_percent": -0.20095133925165223
+    },
+    "BAC": {
+      "price": 45.04,
+      "change_percent": -1.5519125683060127
+    }
+  },
+  "2025-12-03": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2010-12-23": {
+    "AAPL": {
+      "price": 1.6186,
+      "change_percent": -3.3267634235202688
+    },
+    "MSFT": {
+      "price": 0.51,
+      "change_percent": 27.499999999999996
+    },
+    "GOOGL": {
+      "price": 13.9009,
+      "change_percent": -0.22609169992247866
+    },
+    "AMZN": {
+      "price": 9.1295,
+      "change_percent": -1.1744966442952953
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 0.1613,
+      "change_percent": -1.6463414634146392
+    },
+    "JPM": {
+      "price": 2.8,
+      "change_percent": -2.7777777777777803
+    },
+    "JNJ": {
+      "price": 13.45,
+      "change_percent": 1.7397881996974178
+    },
+    "V": {
+      "price": 1.565,
+      "change_percent": 2.960526315789469
+    },
+    "WMT": {
+      "price": 7.6883,
+      "change_percent": 1.2724422724817837
+    },
+    "PG": {
+      "price": 20.235,
+      "change_percent": 1.4539984958636207
+    },
+    "MA": {
+      "price": 2.54,
+      "change_percent": 3.6734693877550963
+    },
+    "HD": {
+      "price": -30.87,
+      "change_percent": 0.29239766081871293
+    },
+    "BAC": {
+      "price": 5.7,
+      "change_percent": -5.31561461794019
+    }
+  },
+  "2010-12-22": {
+    "AAPL": {
+      "price": 1.6743,
+      "change_percent": 2.0852387049570154
+    },
+    "MSFT": {
+      "price": 0.4,
+      "change_percent": 42.85714285714285
+    },
+    "GOOGL": {
+      "price": 13.9324,
+      "change_percent": 0.4368575094796573
+    },
+    "AMZN": {
+      "price": 9.238,
+      "change_percent": 0.005412719891732987
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 0.164,
+      "change_percent": 2.500000000000002
+    },
+    "JPM": {
+      "price": 2.88,
+      "change_percent": 67.44186046511628
+    },
+    "JNJ": {
+      "price": 13.22,
+      "change_percent": -2.363367799113726
+    },
+    "V": {
+      "price": 1.52,
+      "change_percent": 8.960573476702509
+    },
+    "WMT": {
+      "price": 7.5917,
+      "change_percent": -1.4704737183646948
+    },
+    "PG": {
+      "price": 19.945,
+      "change_percent": 0.40271834885477903
+    },
+    "MA": {
+      "price": 2.45,
+      "change_percent": -8.854166666666666
+    },
+    "HD": {
+      "price": -30.78,
+      "change_percent": -0.3238341968911848
+    },
+    "BAC": {
+      "price": 6.02,
+      "change_percent": 7.11743772241992
+    }
+  },
+  "2025-12-04": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-05": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-23": {
+    "AAPL": {
+      "price": 259.32,
+      "change_percent": 0.4376621867616854
+    },
+    "MSFT": {
+      "price": 519.65,
+      "change_percent": 0.003848892481185037
+    },
+    "GOOGL": {
+      "price": 253.08,
+      "change_percent": 0.5522666772617167
+    },
+    "AMZN": {
+      "price": 221.09,
+      "change_percent": 1.4406974076623147
+    },
+    "META": {
+      "price": 734.0,
+      "change_percent": 0.08044613517678131
+    },
+    "TSLA": {
+      "price": 448.98,
+      "change_percent": 2.280338064104606
+    },
+    "NVDA": {
+      "price": 182.16,
+      "change_percent": 1.0428222764588393
+    },
+    "JPM": {
+      "price": 294.54,
+      "change_percent": 0.14620380129883606
+    },
+    "JNJ": {
+      "price": 191.17,
+      "change_percent": -0.2452515132540174
+    },
+    "V": {
+      "price": 345.29,
+      "change_percent": 0.1740694537120377
+    },
+    "WMT": {
+      "price": 106.86,
+      "change_percent": -0.2613403024080653
+    },
+    "PG": {
+      "price": 151.1532,
+      "change_percent": 0.006616242080352212
+    },
+    "MA": {
+      "price": 573.77,
+      "change_percent": 0.4218006160739233
+    },
+    "HD": {
+      "price": 385.03,
+      "change_percent": -1.012931588554401
+    },
+    "BAC": {
+      "price": 51.76,
+      "change_percent": 1.2915851272015588
+    }
+  },
+  "2025-10-24": {
+    "AAPL": {
+      "price": 262.56,
+      "change_percent": 1.2494215640907023
+    },
+    "MSFT": {
+      "price": 522.7,
+      "change_percent": 0.5869335129414159
+    },
+    "GOOGL": {
+      "price": 259.92,
+      "change_percent": 2.702702702702704
+    },
+    "AMZN": {
+      "price": 224.21,
+      "change_percent": 1.4111900131168322
+    },
+    "META": {
+      "price": 738.36,
+      "change_percent": 0.5940054495912825
+    },
+    "TSLA": {
+      "price": 433.72,
+      "change_percent": -3.3988150919862776
+    },
+    "NVDA": {
+      "price": 186.26,
+      "change_percent": 2.250768555116378
+    },
+    "JPM": {
+      "price": 300.44,
+      "change_percent": 2.0031235146329793
+    },
+    "JNJ": {
+      "price": 189.1,
+      "change_percent": -1.082805879583613
+    },
+    "V": {
+      "price": 346.71,
+      "change_percent": 0.41124851574038024
+    },
+    "WMT": {
+      "price": 106.17,
+      "change_percent": -0.6457046603031983
+    },
+    "PG": {
+      "price": 152.49,
+      "change_percent": 0.8844007272092228
+    },
+    "MA": {
+      "price": 573.67,
+      "change_percent": -0.01742858636736371
+    },
+    "HD": {
+      "price": 386.68,
+      "change_percent": 0.4285380359972039
+    },
+    "BAC": {
+      "price": 52.57,
+      "change_percent": 1.564914992272029
+    }
+  },
+  "2025-10-25": {
+    "AAPL": {
+      "price": 262.56,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 522.7,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 259.92,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 224.21,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 738.36,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 433.72,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 186.26,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 300.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 189.1,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 346.71,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 106.17,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 152.49,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 573.67,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 386.68,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 52.57,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-26": {
+    "AAPL": {
+      "price": 262.56,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 522.7,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 259.92,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 224.21,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 738.36,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 433.72,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 186.26,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 300.44,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 189.1,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 346.71,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 106.17,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 152.49,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 573.67,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 386.68,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 52.57,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-27": {
+    "AAPL": {
+      "price": 268.55,
+      "change_percent": 2.2813833028641106
+    },
+    "MSFT": {
+      "price": 530.61,
+      "change_percent": 1.5132963458963014
+    },
+    "GOOGL": {
+      "price": 269.27,
+      "change_percent": 3.5972606955986324
+    },
+    "AMZN": {
+      "price": 226.97,
+      "change_percent": 1.2309888051380362
+    },
+    "META": {
+      "price": 750.82,
+      "change_percent": 1.6875237011755835
+    },
+    "TSLA": {
+      "price": 452.42,
+      "change_percent": 4.311537397399241
+    },
+    "NVDA": {
+      "price": 191.49,
+      "change_percent": 2.807902931386244
+    },
+    "JPM": {
+      "price": 304.15,
+      "change_percent": 1.234855545200366
+    },
+    "JNJ": {
+      "price": 189.0,
+      "change_percent": -0.05288207297725771
+    },
+    "V": {
+      "price": 347.15,
+      "change_percent": 0.1269072135213861
+    },
+    "WMT": {
+      "price": 104.47,
+      "change_percent": -1.601205613638507
+    },
+    "PG": {
+      "price": 151.74,
+      "change_percent": -0.4918355301987015
+    },
+    "MA": {
+      "price": 572.36,
+      "change_percent": -0.22835428033537497
+    },
+    "HD": {
+      "price": 385.27,
+      "change_percent": -0.3646425985310916
+    },
+    "BAC": {
+      "price": 53.02,
+      "change_percent": 0.8560015217804886
+    }
+  },
+  "2025-10-28": {
+    "AAPL": {
+      "price": 268.74,
+      "change_percent": 0.07075032582386807
+    },
+    "MSFT": {
+      "price": 541.16,
+      "change_percent": 1.988277642713095
+    },
+    "GOOGL": {
+      "price": 267.47,
+      "change_percent": -0.6684740223567255
+    },
+    "AMZN": {
+      "price": 229.25,
+      "change_percent": 1.0045380446755081
+    },
+    "META": {
+      "price": 751.44,
+      "change_percent": 0.08257638315441844
+    },
+    "TSLA": {
+      "price": 460.55,
+      "change_percent": 1.7970027850227654
+    },
+    "NVDA": {
+      "price": 201.03,
+      "change_percent": 4.981983393388685
+    },
+    "JPM": {
+      "price": 305.36,
+      "change_percent": 0.3978300180831946
+    },
+    "JNJ": {
+      "price": 185.63,
+      "change_percent": -1.7830687830687852
+    },
+    "V": {
+      "price": 346.23,
+      "change_percent": -0.26501512314560255
+    },
+    "WMT": {
+      "price": 103.17,
+      "change_percent": -1.2443763759931055
+    },
+    "PG": {
+      "price": 151.37,
+      "change_percent": -0.24383814419401906
+    },
+    "MA": {
+      "price": 565.93,
+      "change_percent": -1.1234188273114933
+    },
+    "HD": {
+      "price": 385.75,
+      "change_percent": 0.12458795130688043
+    },
+    "BAC": {
+      "price": 52.87,
+      "change_percent": -0.28291210863826044
+    }
+  },
+  "2025-10-29": {
+    "AAPL": {
+      "price": 269.44,
+      "change_percent": 0.2604748083649582
+    },
+    "MSFT": {
+      "price": 540.64,
+      "change_percent": -0.09608988099637479
+    },
+    "GOOGL": {
+      "price": 274.57,
+      "change_percent": 2.6545033087822802
+    },
+    "AMZN": {
+      "price": 230.3,
+      "change_percent": 0.4580152671755775
+    },
+    "META": {
+      "price": 751.67,
+      "change_percent": 0.030607899499614673
+    },
+    "TSLA": {
+      "price": 461.51,
+      "change_percent": 0.20844642275539668
+    },
+    "NVDA": {
+      "price": 207.04,
+      "change_percent": 2.989603541759932
+    },
+    "JPM": {
+      "price": 305.51,
+      "change_percent": 0.04912234739323332
+    },
+    "JNJ": {
+      "price": 185.3,
+      "change_percent": -0.17777298927974147
+    },
+    "V": {
+      "price": 340.61,
+      "change_percent": -1.6231984518961395
+    },
+    "WMT": {
+      "price": 102.46,
+      "change_percent": -0.6881845497722283
+    },
+    "PG": {
+      "price": 148.77,
+      "change_percent": -1.7176455043932048
+    },
+    "MA": {
+      "price": 554.58,
+      "change_percent": -2.005548389376762
+    },
+    "HD": {
+      "price": 378.04,
+      "change_percent": -1.9987038237200205
+    },
+    "BAC": {
+      "price": 52.58,
+      "change_percent": -0.5485152260261003
+    }
+  },
+  "2025-10-30": {
+    "AAPL": {
+      "price": 271.14,
+      "change_percent": 0.6309382422802808
+    },
+    "MSFT": {
+      "price": 524.85,
+      "change_percent": -2.920612607280254
+    },
+    "GOOGL": {
+      "price": 281.48,
+      "change_percent": 2.5166624175984356
+    },
+    "AMZN": {
+      "price": 222.86,
+      "change_percent": -3.2305688232739898
+    },
+    "META": {
+      "price": 666.47,
+      "change_percent": -11.334761264916777
+    },
+    "TSLA": {
+      "price": 440.1,
+      "change_percent": -4.639119412363756
+    },
+    "NVDA": {
+      "price": 202.89,
+      "change_percent": -2.0044435857805283
+    },
+    "JPM": {
+      "price": 309.44,
+      "change_percent": 1.2863736047919894
+    },
+    "JNJ": {
+      "price": 187.75,
+      "change_percent": 1.3221802482460812
+    },
+    "V": {
+      "price": 344.36,
+      "change_percent": 1.1009659140952996
+    },
+    "WMT": {
+      "price": 102.23,
+      "change_percent": -0.2244778450126779
+    },
+    "PG": {
+      "price": 149.58,
+      "change_percent": 0.5444646098003645
+    },
+    "MA": {
+      "price": 553.68,
+      "change_percent": -0.16228497241157108
+    },
+    "HD": {
+      "price": 379.55,
+      "change_percent": 0.3994286318908028
+    },
+    "BAC": {
+      "price": 53.03,
+      "change_percent": 0.855838721947514
+    }
+  },
+  "2025-10-31": {
+    "AAPL": {
+      "price": 270.11,
+      "change_percent": -0.3798775540311178
+    },
+    "MSFT": {
+      "price": 516.9,
+      "change_percent": -1.5147184909974365
+    },
+    "GOOGL": {
+      "price": 281.19,
+      "change_percent": -0.10302685803610218
+    },
+    "AMZN": {
+      "price": 244.22,
+      "change_percent": 9.58449250650632
+    },
+    "META": {
+      "price": 648.35,
+      "change_percent": -2.7188020466037486
+    },
+    "TSLA": {
+      "price": 456.56,
+      "change_percent": 3.7400590774823854
+    },
+    "NVDA": {
+      "price": 202.49,
+      "change_percent": -0.19715116565625573
+    },
+    "JPM": {
+      "price": 311.12,
+      "change_percent": 0.5429162357807674
+    },
+    "JNJ": {
+      "price": 187.57,
+      "change_percent": -0.09587217043941774
+    },
+    "V": {
+      "price": 340.07,
+      "change_percent": -1.2457892902776224
+    },
+    "WMT": {
+      "price": 101.18,
+      "change_percent": -1.027095764452702
+    },
+    "PG": {
+      "price": 150.37,
+      "change_percent": 0.528145473993844
+    },
+    "MA": {
+      "price": 551.99,
+      "change_percent": -0.3052304580262861
+    },
+    "HD": {
+      "price": 379.59,
+      "change_percent": 0.010538795942553978
+    },
+    "BAC": {
+      "price": 53.45,
+      "change_percent": 0.7920045257401503
+    }
+  },
+  "2025-11-01": {
+    "AAPL": {
+      "price": 270.11,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 516.9,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 281.19,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 244.22,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 648.35,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 456.56,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 202.49,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 311.12,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 187.57,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 340.07,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 101.18,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 150.37,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 551.99,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 379.59,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.45,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-02": {
+    "AAPL": {
+      "price": 270.11,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 516.9,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 281.19,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 244.22,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 648.35,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 456.56,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 202.49,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 311.12,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 187.57,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 340.07,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 101.18,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 150.37,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 551.99,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 379.59,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.45,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-03": {
+    "AAPL": {
+      "price": 268.79,
+      "change_percent": -0.4886897930472745
+    },
+    "MSFT": {
+      "price": 516.12,
+      "change_percent": -0.15089959373185774
+    },
+    "GOOGL": {
+      "price": 283.72,
+      "change_percent": 0.8997475016892598
+    },
+    "AMZN": {
+      "price": 254.0,
+      "change_percent": 4.004586028990255
+    },
+    "META": {
+      "price": 637.71,
+      "change_percent": -1.6410889180226707
+    },
+    "TSLA": {
+      "price": 468.37,
+      "change_percent": 2.5867355878745406
+    },
+    "NVDA": {
+      "price": 206.88,
+      "change_percent": 2.1680082967060033
+    },
+    "JPM": {
+      "price": 309.35,
+      "change_percent": -0.5689123167909429
+    },
+    "JNJ": {
+      "price": 184.96,
+      "change_percent": -1.391480513941454
+    },
+    "V": {
+      "price": 336.23,
+      "change_percent": -1.129179286617454
+    },
+    "WMT": {
+      "price": 101.59,
+      "change_percent": 0.40521842261316127
+    },
+    "PG": {
+      "price": 148.02,
+      "change_percent": -1.5628117310633731
+    },
+    "MA": {
+      "price": 544.07,
+      "change_percent": -1.434808601605094
+    },
+    "HD": {
+      "price": 378.35,
+      "change_percent": -0.3266682473194637
+    },
+    "BAC": {
+      "price": 53.56,
+      "change_percent": 0.20579981290925992
+    }
+  },
+  "2025-11-04": {
+    "AAPL": {
+      "price": 269.78,
+      "change_percent": 0.3683172737080814
+    },
+    "MSFT": {
+      "price": 513.42,
+      "change_percent": -0.5231341548477186
+    },
+    "GOOGL": {
+      "price": 277.54,
+      "change_percent": -2.1782038629634872
+    },
+    "AMZN": {
+      "price": 249.32,
+      "change_percent": -1.8425196850393728
+    },
+    "META": {
+      "price": 627.32,
+      "change_percent": -1.6292672217779218
+    },
+    "TSLA": {
+      "price": 444.26,
+      "change_percent": -5.147639686572584
+    },
+    "NVDA": {
+      "price": 198.69,
+      "change_percent": -3.958816705336426
+    },
+    "JPM": {
+      "price": 309.25,
+      "change_percent": -0.03232584451269524
+    },
+    "JNJ": {
+      "price": 185.56,
+      "change_percent": 0.324394463667817
+    },
+    "V": {
+      "price": 339.63,
+      "change_percent": 1.011212562829009
+    },
+    "WMT": {
+      "price": 102.27,
+      "change_percent": 0.6693572201988311
+    },
+    "PG": {
+      "price": 147.17,
+      "change_percent": -0.57424672341577
+    },
+    "MA": {
+      "price": 552.75,
+      "change_percent": 1.5953829470472456
+    },
+    "HD": {
+      "price": 383.08,
+      "change_percent": 1.2501651909607403
+    },
+    "BAC": {
+      "price": 53.54,
+      "change_percent": -0.03734129947722764
+    }
+  },
+  "2025-11-07": {
+    "AAPL": {
+      "price": 268.21,
+      "change_percent": -0.4823568698749625
+    },
+    "MSFT": {
+      "price": 495.91,
+      "change_percent": -0.056429996573887566
+    },
+    "GOOGL": {
+      "price": 278.83,
+      "change_percent": -2.079016681299391
+    },
+    "AMZN": {
+      "price": 244.41,
+      "change_percent": 0.5636932192231751
+    },
+    "META": {
+      "price": 621.71,
+      "change_percent": 0.4475393414547423
+    },
+    "TSLA": {
+      "price": 429.52,
+      "change_percent": -3.6756296113565607
+    },
+    "NVDA": {
+      "price": 188.15,
+      "change_percent": 0.03721820501913716
+    },
+    "JPM": {
+      "price": 314.21,
+      "change_percent": 0.2520579414204466
+    },
+    "JNJ": {
+      "price": 185.27,
+      "change_percent": -0.2154359885818804
+    },
+    "V": {
+      "price": 335.35,
+      "change_percent": -0.2795206518183704
+    },
+    "WMT": {
+      "price": 102.59,
+      "change_percent": 0.8949645948072351
+    },
+    "PG": {
+      "price": 146.98,
+      "change_percent": 0.581673852049541
+    },
+    "MA": {
+      "price": 551.97,
+      "change_percent": -0.23676980913822035
+    },
+    "HD": {
+      "price": 371.11,
+      "change_percent": 0.5527406725011571
+    },
+    "BAC": {
+      "price": 53.2,
+      "change_percent": -0.16888722086694746
+    }
+  },
+  "2025-11-16": {
+    "AAPL": {
+      "price": 272.41,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 509.27,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 276.41,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.69,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 609.46,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 404.35,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 190.17,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 303.61,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 194.63,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 330.02,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 102.48,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 147.67,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.73,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 362.36,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 52.61,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-14": {
+    "AAPL": {
+      "price": 272.41,
+      "change_percent": -0.19783843194722978
+    },
+    "MSFT": {
+      "price": 509.27,
+      "change_percent": 1.3714717942593229
+    },
+    "GOOGL": {
+      "price": 276.41,
+      "change_percent": -0.7753885917363564
+    },
+    "AMZN": {
+      "price": 234.69,
+      "change_percent": -1.2164323596262374
+    },
+    "META": {
+      "price": 609.46,
+      "change_percent": -0.07050451720801292
+    },
+    "TSLA": {
+      "price": 404.35,
+      "change_percent": 0.5870792805791223
+    },
+    "NVDA": {
+      "price": 190.17,
+      "change_percent": 1.7713796425130972
+    },
+    "JPM": {
+      "price": 303.61,
+      "change_percent": -1.8967299987075106
+    },
+    "JNJ": {
+      "price": 194.63,
+      "change_percent": 0.3506058262438808
+    },
+    "V": {
+      "price": 330.02,
+      "change_percent": -1.8031421090216622
+    },
+    "WMT": {
+      "price": 102.48,
+      "change_percent": -0.0585137507314241
+    },
+    "PG": {
+      "price": 147.67,
+      "change_percent": -0.19599891862666965
+    },
+    "MA": {
+      "price": 545.73,
+      "change_percent": -1.7711539499973057
+    },
+    "HD": {
+      "price": 362.36,
+      "change_percent": -1.5513353438204636
+    },
+    "BAC": {
+      "price": 52.61,
+      "change_percent": -0.49177227160960474
+    }
+  },
+  "2025-12-25": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-06": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-07": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-26": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-23": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-31": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-16": {
+    "AAPL": {
+      "price": 237.89,
+      "change_percent": 0.6132634072068975
+    },
+    "MSFT": {
+      "price": 508.13,
+      "change_percent": -1.2284964525221205
+    },
+    "GOOGL": {
+      "price": 251.16,
+      "change_percent": -0.17884821747943921
+    },
+    "AMZN": {
+      "price": 234.05,
+      "change_percent": 1.1320917772112538
+    },
+    "META": {
+      "price": 778.475,
+      "change_percent": 1.8712991134229817
+    },
+    "TSLA": {
+      "price": 421.62,
+      "change_percent": 2.8241147205150674
+    },
+    "NVDA": {
+      "price": 174.88,
+      "change_percent": -1.614627285513364
+    },
+    "JPM": {
+      "price": 307.69,
+      "change_percent": 0.0943396226415161
+    },
+    "JNJ": {
+      "price": 175.16,
+      "change_percent": -0.5337876206700726
+    },
+    "V": {
+      "price": 339.36,
+      "change_percent": 0.2896152254861452
+    },
+    "WMT": {
+      "price": 103.42,
+      "change_percent": -0.2603915517407619
+    },
+    "PG": {
+      "price": 156.9932,
+      "change_percent": 0.7831899197037737
+    },
+    "MA": {
+      "price": 585.66,
+      "change_percent": 0.594297492270684
+    },
+    "HD": {
+      "price": 421.45,
+      "change_percent": -0.29807669560691513
+    },
+    "BAC": {
+      "price": 50.66,
+      "change_percent": 0.1383672662581403
+    }
+  },
+  "2025-10-04": {
+    "AAPL": {
+      "price": 257.76,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 516.44,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 710.56,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 219.51,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 308.53,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 245.35,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.83,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-05": {
+    "AAPL": {
+      "price": 257.76,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 516.44,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 710.56,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 219.51,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 308.53,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 245.35,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.83,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-06": {
+    "AAPL": {
+      "price": 256.43,
+      "change_percent": -0.5159838609559219
+    },
+    "MSFT": {
+      "price": 527.66,
+      "change_percent": 2.1725660289675304
+    },
+    "META": {
+      "price": 715.66,
+      "change_percent": 0.7177437514073439
+    },
+    "AMZN": {
+      "price": 220.9,
+      "change_percent": 0.633228554507774
+    },
+    "JPM": {
+      "price": 309.18,
+      "change_percent": 0.21067643341005227
+    },
+    "GOOGL": {
+      "price": 250.43,
+      "change_percent": 2.070511514163445
+    },
+    "TSLA": {
+      "price": 453.25,
+      "change_percent": 5.4486657515762085
+    }
+  },
+  "2025-10-07": {
+    "AAPL": {
+      "price": 256.22,
+      "change_percent": -0.08189369418553973
+    },
+    "MSFT": {
+      "price": 523.07,
+      "change_percent": -0.8698783307432663
+    },
+    "META": {
+      "price": 713.08,
+      "change_percent": -0.36050638571387633
+    },
+    "AMZN": {
+      "price": 221.78,
+      "change_percent": 0.3983703033046607
+    },
+    "JPM": {
+      "price": 307.69,
+      "change_percent": -0.4819199172003393
+    },
+    "GOOGL": {
+      "price": 245.76,
+      "change_percent": -1.8647925568023063
+    },
+    "TSLA": {
+      "price": 433.09,
+      "change_percent": -4.447876447876453
+    }
+  },
+  "2025-10-08": {
+    "AAPL": {
+      "price": 257.8,
+      "change_percent": 0.6166575599094466
+    },
+    "MSFT": {
+      "price": 523.94,
+      "change_percent": 0.1663257307817318
+    },
+    "META": {
+      "price": 717.84,
+      "change_percent": 0.667526785213439
+    },
+    "AMZN": {
+      "price": 225.22,
+      "change_percent": 1.5510866624582909
+    },
+    "JPM": {
+      "price": 304.03,
+      "change_percent": -1.1895089213169179
+    },
+    "GOOGL": {
+      "price": 244.62,
+      "change_percent": -0.46386718749999445
+    },
+    "TSLA": {
+      "price": 438.69,
+      "change_percent": 1.2930337805075212
+    }
+  },
+  "2025-10-09": {
+    "AAPL": {
+      "price": 253.78,
+      "change_percent": -1.5593483320403452
+    },
+    "MSFT": {
+      "price": 521.49,
+      "change_percent": -0.46761079512922193
+    },
+    "META": {
+      "price": 733.51,
+      "change_percent": 2.182937701994868
+    },
+    "AMZN": {
+      "price": 227.74,
+      "change_percent": 1.1189059586182444
+    },
+    "JPM": {
+      "price": 305.53,
+      "change_percent": 0.49337236456928596
+    },
+    "GOOGL": {
+      "price": 241.53,
+      "change_percent": -1.2631837135148407
+    },
+    "TSLA": {
+      "price": 435.54,
+      "change_percent": -0.7180469123982715
+    }
+  },
+  "2025-10-10": {
+    "AAPL": {
+      "price": 245.01,
+      "change_percent": -3.4557490740011074
+    },
+    "MSFT": {
+      "price": 510.05,
+      "change_percent": -2.19371416518054
+    },
+    "META": {
+      "price": 705.3,
+      "change_percent": -3.8458916715518585
+    },
+    "AMZN": {
+      "price": 216.37,
+      "change_percent": -4.9925353473259
+    },
+    "JPM": {
+      "price": 300.89,
+      "change_percent": -1.5186724707884616
+    },
+    "GOOGL": {
+      "price": 236.57,
+      "change_percent": -2.0535751252432446
+    },
+    "TSLA": {
+      "price": 413.49,
+      "change_percent": -5.062680810028932
+    }
+  },
+  "2025-10-11": {
+    "AAPL": {
+      "price": 245.01,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 413.49,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 216.37,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 300.89,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 510.05,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 705.3,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 236.57,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-12": {
+    "AAPL": {
+      "price": 245.01,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 413.49,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 216.37,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 300.89,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 510.05,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 705.3,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 236.57,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-13": {
+    "AAPL": {
+      "price": 247.4,
+      "change_percent": 0.9754703889637218
+    },
+    "TSLA": {
+      "price": 435.9,
+      "change_percent": 5.419719944859602
+    },
+    "AMZN": {
+      "price": 220.07,
+      "change_percent": 1.710033738503484
+    },
+    "JPM": {
+      "price": 307.97,
+      "change_percent": 2.353019375851654
+    },
+    "MSFT": {
+      "price": 513.14,
+      "change_percent": 0.6058229585334721
+    },
+    "META": {
+      "price": 715.7,
+      "change_percent": 1.4745498369488292
+    },
+    "GOOGL": {
+      "price": 244.15,
+      "change_percent": 3.2041256287779567
+    }
+  },
+  "2025-10-14": {
+    "AAPL": {
+      "price": 247.51,
+      "change_percent": 0.044462409054157326
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": -1.5278733654507843
+    },
+    "AMZN": {
+      "price": 216.39,
+      "change_percent": -1.6721952106148075
+    },
+    "JPM": {
+      "price": 302.08,
+      "change_percent": -1.912523947137722
+    },
+    "MSFT": {
+      "price": 512.66,
+      "change_percent": -0.09354172350625915
+    },
+    "META": {
+      "price": 708.65,
+      "change_percent": -0.9850496017884683
+    },
+    "GOOGL": {
+      "price": 245.45,
+      "change_percent": 0.5324595535531366
+    }
+  },
+  "2025-10-15": {
+    "AAPL": {
+      "price": 249.08,
+      "change_percent": 0.6343178053412071
+    },
+    "TSLA": {
+      "price": 435.15,
+      "change_percent": 1.376852110707289
+    },
+    "AMZN": {
+      "price": 215.57,
+      "change_percent": -0.37894542261656883
+    },
+    "JPM": {
+      "price": 305.69,
+      "change_percent": 1.19504766949153
+    },
+    "MSFT": {
+      "price": 512.52,
+      "change_percent": -0.027308547575388437
+    },
+    "META": {
+      "price": 717.55,
+      "change_percent": 1.2559091229803117
+    },
+    "GOOGL": {
+      "price": 251.03,
+      "change_percent": 2.273375432878392
+    }
+  },
+  "2025-10-16": {
+    "AAPL": {
+      "price": 247.19,
+      "change_percent": -0.758792355869606
+    },
+    "TSLA": {
+      "price": 428.75,
+      "change_percent": -1.4707572101574118
+    },
+    "AMZN": {
+      "price": 214.47,
+      "change_percent": -0.5102750846592727
+    },
+    "JPM": {
+      "price": 298.54,
+      "change_percent": -2.3389708528247497
+    },
+    "MSFT": {
+      "price": 510.7,
+      "change_percent": -0.3551080933426975
+    },
+    "META": {
+      "price": 712.07,
+      "change_percent": -0.7637098460037495
+    },
+    "GOOGL": {
+      "price": 251.46,
+      "change_percent": 0.17129426761741895
+    }
+  },
+  "2025-10-17": {
+    "AAPL": {
+      "price": 252.03,
+      "change_percent": 1.9580080100327697
+    },
+    "TSLA": {
+      "price": 439.31,
+      "change_percent": 2.462973760932945
+    },
+    "AMZN": {
+      "price": 213.04,
+      "change_percent": -0.6667599198023065
+    },
+    "JPM": {
+      "price": 297.56,
+      "change_percent": -0.3282642192001133
+    },
+    "MSFT": {
+      "price": 512.67,
+      "change_percent": 0.385745055805751
+    },
+    "META": {
+      "price": 716.915,
+      "change_percent": 0.6804106337859921
+    },
+    "GOOGL": {
+      "price": 253.3,
+      "change_percent": 0.7317267159786858
+    }
+  },
+  "2025-10-18": {
+    "AAPL": {
+      "price": 252.03,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 439.31,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 213.04,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 297.56,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 512.67,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 716.915,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 253.3,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-19": {
+    "AAPL": {
+      "price": 252.03,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 439.31,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 213.04,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 297.56,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 512.67,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 716.915,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 253.3,
+      "change_percent": 0.0
+    }
+  },
+  "2025-10-20": {
+    "AAPL": {
+      "price": 261.98,
+      "change_percent": 3.9479427052335105
+    },
+    "TSLA": {
+      "price": 447.43,
+      "change_percent": 1.8483530991782577
+    },
+    "AMZN": {
+      "price": 216.48,
+      "change_percent": 1.6147202403304535
+    },
+    "JPM": {
+      "price": 302.36,
+      "change_percent": 1.6131200430165384
+    },
+    "MSFT": {
+      "price": 515.88,
+      "change_percent": 0.6261337702615789
+    },
+    "META": {
+      "price": 732.17,
+      "change_percent": 2.1278673203936305
+    },
+    "GOOGL": {
+      "price": 256.55,
+      "change_percent": 1.2830635609948677
+    }
+  },
+  "2025-10-21": {
+    "AAPL": {
+      "price": 262.51,
+      "change_percent": 0.20230551950529532
+    },
+    "TSLA": {
+      "price": 442.6,
+      "change_percent": -1.0794984690342588
+    },
+    "AMZN": {
+      "price": 222.03,
+      "change_percent": 2.56374722838138
+    },
+    "JPM": {
+      "price": 297.09,
+      "change_percent": -1.7429554173832646
+    },
+    "MSFT": {
+      "price": 516.75,
+      "change_percent": 0.168643870667598
+    },
+    "META": {
+      "price": 733.27,
+      "change_percent": 0.15023833262767156
+    },
+    "GOOGL": {
+      "price": 250.46,
+      "change_percent": -2.37380627557981
+    }
+  },
+  "2025-10-22": {
+    "AAPL": {
+      "price": 258.19,
+      "change_percent": -1.6456515942249794
+    },
+    "TSLA": {
+      "price": 438.97,
+      "change_percent": -0.8201536375960223
+    },
+    "AMZN": {
+      "price": 217.95,
+      "change_percent": -1.8375895149304204
+    },
+    "JPM": {
+      "price": 294.11,
+      "change_percent": -1.0030630448685454
+    },
+    "MSFT": {
+      "price": 519.63,
+      "change_percent": 0.5573294629898395
+    },
+    "META": {
+      "price": 733.41,
+      "change_percent": 0.019092557993643046
+    },
+    "GOOGL": {
+      "price": 251.69,
+      "change_percent": 0.49109638265590905
+    }
+  },
+  "2025-11-05": {
+    "AAPL": {
+      "price": 269.88,
+      "change_percent": 0.037067239973320024
+    },
+    "TSLA": {
+      "price": 462.07,
+      "change_percent": 4.008913699185163
+    },
+    "AMZN": {
+      "price": 250.2,
+      "change_percent": 0.35296005133964203
+    },
+    "JPM": {
+      "price": 311.68,
+      "change_percent": 0.78577202910267
+    },
+    "MSFT": {
+      "price": 506.25,
+      "change_percent": -1.396517471076304
+    },
+    "META": {
+      "price": 635.95,
+      "change_percent": 1.3756934260026772
+    },
+    "GOOGL": {
+      "price": 284.31,
+      "change_percent": 2.4392880305541476
+    },
+    "NVDA": {
+      "price": 195.2,
+      "change_percent": -1.7515602979665885
+    }
+  },
+  "2025-11-06": {
+    "AAPL": {
+      "price": 269.51,
+      "change_percent": -0.13709796946791336
+    },
+    "TSLA": {
+      "price": 445.91,
+      "change_percent": -3.4973056030471503
+    },
+    "AMZN": {
+      "price": 243.04,
+      "change_percent": -2.861710631494803
+    },
+    "JPM": {
+      "price": 313.42,
+      "change_percent": 0.558264887063658
+    },
+    "MSFT": {
+      "price": 496.19,
+      "change_percent": -1.987160493827161
+    },
+    "META": {
+      "price": 618.94,
+      "change_percent": -2.6747385800770482
+    },
+    "GOOGL": {
+      "price": 284.75,
+      "change_percent": 0.15476064858780827
+    },
+    "NVDA": {
+      "price": 188.07,
+      "change_percent": -3.652663934426227
+    }
+  },
+  "2025-11-08": {
+    "AAPL": {
+      "price": 268.21,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.52,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 244.41,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 314.21,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 495.91,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 621.71,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 278.83,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 188.14,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-09": {
+    "AAPL": {
+      "price": 268.21,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.52,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 244.41,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 314.21,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 495.91,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 621.71,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 278.83,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 188.14,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-10": {
+    "AAPL": {
+      "price": 269.43,
+      "change_percent": 0.4548674546064753
+    },
+    "TSLA": {
+      "price": 445.23,
+      "change_percent": 3.6575712423170135
+    },
+    "AMZN": {
+      "price": 248.4,
+      "change_percent": 1.632502761752796
+    },
+    "JPM": {
+      "price": 316.89,
+      "change_percent": 0.8529327519811614
+    },
+    "MSFT": {
+      "price": 505.09,
+      "change_percent": 1.8511423443769937
+    },
+    "META": {
+      "price": 631.76,
+      "change_percent": 1.6165093049814148
+    },
+    "GOOGL": {
+      "price": 290.1,
+      "change_percent": 4.041889323243567
+    },
+    "NVDA": {
+      "price": 199.04,
+      "change_percent": 5.793557988731799
+    }
+  },
+  "2025-11-11": {
+    "AAPL": {
+      "price": 275.25,
+      "change_percent": 2.160115800022267
+    },
+    "TSLA": {
+      "price": 439.62,
+      "change_percent": -1.2600229095074487
+    },
+    "AMZN": {
+      "price": 249.1,
+      "change_percent": 0.2818035426731033
+    },
+    "JPM": {
+      "price": 315.62,
+      "change_percent": -0.4007699832749477
+    },
+    "MSFT": {
+      "price": 507.77,
+      "change_percent": 0.5305985071967386
+    },
+    "META": {
+      "price": 627.08,
+      "change_percent": -0.7407876408762742
+    },
+    "GOOGL": {
+      "price": 291.31,
+      "change_percent": 0.41709755256807285
+    },
+    "NVDA": {
+      "price": 193.15,
+      "change_percent": -2.959204180064302
+    }
+  },
+  "2025-11-12": {
+    "AAPL": {
+      "price": 273.47,
+      "change_percent": -0.6466848319709256
+    },
+    "TSLA": {
+      "price": 430.6,
+      "change_percent": -2.0517719848960425
+    },
+    "AMZN": {
+      "price": 244.2,
+      "change_percent": -1.9670814933761567
+    },
+    "JPM": {
+      "price": 320.41,
+      "change_percent": 1.517647804321659
+    },
+    "MSFT": {
+      "price": 510.23,
+      "change_percent": 0.4844713157532025
+    },
+    "META": {
+      "price": 609.01,
+      "change_percent": -2.8816100019136393
+    },
+    "GOOGL": {
+      "price": 286.71,
+      "change_percent": -1.5790738388658208
+    },
+    "NVDA": {
+      "price": 193.79,
+      "change_percent": 0.33134869272585366
+    }
+  },
+  "2025-11-13": {
+    "AAPL": {
+      "price": 272.95,
+      "change_percent": -0.190148828025026
+    },
+    "TSLA": {
+      "price": 401.99,
+      "change_percent": -6.6442173711100825
+    },
+    "AMZN": {
+      "price": 237.58,
+      "change_percent": -2.710892710892701
+    },
+    "JPM": {
+      "price": 309.48,
+      "change_percent": -3.4112543303891907
+    },
+    "MSFT": {
+      "price": 502.38,
+      "change_percent": -1.5385218430903755
+    },
+    "META": {
+      "price": 609.89,
+      "change_percent": 0.14449680629217837
+    },
+    "GOOGL": {
+      "price": 278.57,
+      "change_percent": -2.839105716577722
+    },
+    "NVDA": {
+      "price": 186.85,
+      "change_percent": -3.581196140151709
+    }
+  },
+  "2025-11-15": {
+    "AAPL": {
+      "price": 272.41,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 404.35,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.69,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 303.61,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 509.27,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 609.46,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 276.41,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 190.16,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-17": {
+    "AAPL": {
+      "price": 267.46,
+      "change_percent": -1.8171139091810304
+    },
+    "TSLA": {
+      "price": 408.92,
+      "change_percent": 1.1302089773710877
+    },
+    "AMZN": {
+      "price": 232.87,
+      "change_percent": -0.7754910733307738
+    },
+    "JPM": {
+      "price": 300.37,
+      "change_percent": -1.0671585257402618
+    },
+    "MSFT": {
+      "price": 506.58,
+      "change_percent": -0.5282070414514889
+    },
+    "META": {
+      "price": 602.01,
+      "change_percent": -1.2223935943294137
+    },
+    "GOOGL": {
+      "price": 285.02,
+      "change_percent": 3.1149379544878824
+    },
+    "NVDA": {
+      "price": 186.59,
+      "change_percent": -1.8773664282709261
+    }
+  },
+  "2025-11-18": {
+    "AAPL": {
+      "price": 267.44,
+      "change_percent": -0.007477753682786888
+    },
+    "TSLA": {
+      "price": 401.25,
+      "change_percent": -1.8756725031791095
+    },
+    "AMZN": {
+      "price": 222.55,
+      "change_percent": -4.431657147764844
+    },
+    "JPM": {
+      "price": 299.41,
+      "change_percent": -0.31960581948928973
+    },
+    "MSFT": {
+      "price": 492.88,
+      "change_percent": -2.7044099648624083
+    },
+    "META": {
+      "price": 597.69,
+      "change_percent": -0.7175960532216967
+    },
+    "GOOGL": {
+      "price": 284.28,
+      "change_percent": -0.25963090309452286
+    },
+    "NVDA": {
+      "price": 181.35,
+      "change_percent": -2.8082962645372254
+    }
+  },
+  "2025-11-19": {
+    "AAPL": {
+      "price": 268.56,
+      "change_percent": 0.41878552198624164
+    },
+    "TSLA": {
+      "price": 403.99,
+      "change_percent": 0.6828660436137095
+    },
+    "AMZN": {
+      "price": 222.69,
+      "change_percent": 0.06290721186249668
+    },
+    "JPM": {
+      "price": 303.27,
+      "change_percent": 1.28920209745832
+    },
+    "MSFT": {
+      "price": 486.21,
+      "change_percent": -1.3532705729589385
+    },
+    "META": {
+      "price": 590.32,
+      "change_percent": -1.2330806940052543
+    },
+    "GOOGL": {
+      "price": 292.81,
+      "change_percent": 3.0005628253834358
+    },
+    "NVDA": {
+      "price": 186.51,
+      "change_percent": 2.8453267162944567
+    }
+  },
+  "2025-11-20": {
+    "AAPL": {
+      "price": 266.25,
+      "change_percent": -0.860142984807865
+    },
+    "TSLA": {
+      "price": 395.23,
+      "change_percent": -2.168370504220399
+    },
+    "AMZN": {
+      "price": 217.14,
+      "change_percent": -2.4922538057389247
+    },
+    "JPM": {
+      "price": 298.38,
+      "change_percent": -1.6124245721634143
+    },
+    "MSFT": {
+      "price": 478.43,
+      "change_percent": -1.6001316303654745
+    },
+    "META": {
+      "price": 589.15,
+      "change_percent": -0.1981975877490298
+    },
+    "GOOGL": {
+      "price": 289.45,
+      "change_percent": -1.1475017929715563
+    },
+    "NVDA": {
+      "price": 180.63,
+      "change_percent": -3.152645970725428
+    }
+  },
+  "2025-11-21": {
+    "AAPL": {
+      "price": 271.49,
+      "change_percent": 1.9680751173708952
+    },
+    "TSLA": {
+      "price": 391.09,
+      "change_percent": -1.0474913341598673
+    },
+    "AMZN": {
+      "price": 220.69,
+      "change_percent": 1.6348899327622786
+    },
+    "JPM": {
+      "price": 298.02,
+      "change_percent": -0.12065151819827524
+    },
+    "MSFT": {
+      "price": 472.12,
+      "change_percent": -1.3188972263445022
+    },
+    "META": {
+      "price": 594.25,
+      "change_percent": 0.8656539081727952
+    },
+    "GOOGL": {
+      "price": 299.66,
+      "change_percent": 3.527379512869248
+    },
+    "NVDA": {
+      "price": 178.87,
+      "change_percent": -0.974367491557322
+    }
+  },
+  "2025-11-22": {
+    "AAPL": {
+      "price": 271.49,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 391.09,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 220.69,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 298.02,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 472.12,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 594.25,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 299.66,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 178.87,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-23": {
+    "AAPL": {
+      "price": 271.49,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 391.09,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 220.69,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 298.02,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 472.12,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 594.25,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 299.66,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 178.87,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-24": {
+    "AAPL": {
+      "price": 275.92,
+      "change_percent": 1.6317359755423797
+    },
+    "TSLA": {
+      "price": 417.78,
+      "change_percent": 6.824516096039275
+    },
+    "AMZN": {
+      "price": 226.28,
+      "change_percent": 2.5329647922425136
+    },
+    "JPM": {
+      "price": 298.0,
+      "change_percent": -0.0067109589960344315
+    },
+    "MSFT": {
+      "price": 474.0,
+      "change_percent": 0.39820384647970763
+    },
+    "META": {
+      "price": 613.05,
+      "change_percent": 3.1636516617585113
+    },
+    "GOOGL": {
+      "price": 318.58,
+      "change_percent": 6.313822331976225
+    },
+    "NVDA": {
+      "price": 182.54,
+      "change_percent": 2.0517694414938155
+    }
+  },
+  "2025-11-25": {
+    "AAPL": {
+      "price": 276.97,
+      "change_percent": 0.38054508553204236
+    },
+    "TSLA": {
+      "price": 419.4,
+      "change_percent": 0.38776389487290075
+    },
+    "AMZN": {
+      "price": 229.67,
+      "change_percent": 1.4981438925225325
+    },
+    "JPM": {
+      "price": 303.0,
+      "change_percent": 1.6778523489932886
+    },
+    "MSFT": {
+      "price": 476.99,
+      "change_percent": 0.630801687763715
+    },
+    "META": {
+      "price": 636.22,
+      "change_percent": 3.779463339042505
+    },
+    "GOOGL": {
+      "price": 323.44,
+      "change_percent": 1.5255194927490783
+    },
+    "NVDA": {
+      "price": 177.81,
+      "change_percent": -2.591212884847151
+    }
+  },
+  "2025-11-26": {
+    "AAPL": {
+      "price": 277.55,
+      "change_percent": 0.2094089612593364
+    },
+    "TSLA": {
+      "price": 426.58,
+      "change_percent": 1.7119694802098253
+    },
+    "AMZN": {
+      "price": 229.16,
+      "change_percent": -0.22205773501109893
+    },
+    "JPM": {
+      "price": 307.64,
+      "change_percent": 1.531353135313527
+    },
+    "MSFT": {
+      "price": 485.5,
+      "change_percent": 1.7841044885636994
+    },
+    "META": {
+      "price": 633.61,
+      "change_percent": -0.41023545314514065
+    },
+    "GOOGL": {
+      "price": 319.95,
+      "change_percent": -1.0790254761315883
+    },
+    "NVDA": {
+      "price": 180.25,
+      "change_percent": 1.3722512794555974
+    }
+  },
+  "2025-11-27": {
+    "AAPL": {
+      "price": 277.55,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 426.58,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 229.16,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.64,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 485.5,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 633.61,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 319.95,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 180.25,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-28": {
+    "AAPL": {
+      "price": 278.85,
+      "change_percent": 0.46838407494145606
+    },
+    "TSLA": {
+      "price": 430.17,
+      "change_percent": 0.8415771953678166
+    },
+    "AMZN": {
+      "price": 233.22,
+      "change_percent": 1.7716879036481072
+    },
+    "JPM": {
+      "price": 313.08,
+      "change_percent": 1.768300611103887
+    },
+    "MSFT": {
+      "price": 492.01,
+      "change_percent": 1.3408856848609663
+    },
+    "META": {
+      "price": 647.95,
+      "change_percent": 2.263221855715666
+    },
+    "GOOGL": {
+      "price": 320.18,
+      "change_percent": 0.07188623222379065
+    },
+    "NVDA": {
+      "price": 176.99,
+      "change_percent": -1.808599167822464
+    }
+  },
+  "2025-11-29": {
+    "AAPL": {
+      "price": 278.85,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 430.17,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 233.22,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 313.08,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 492.01,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.95,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 320.18,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 176.99,
+      "change_percent": 0.0
+    }
+  },
+  "2025-11-30": {
+    "AAPL": {
+      "price": 278.85,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 430.17,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 233.22,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 313.08,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 492.01,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.95,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 320.18,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 176.99,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-01": {
+    "AAPL": {
+      "price": 283.1,
+      "change_percent": 1.5241169087322932
+    },
+    "TSLA": {
+      "price": 430.14,
+      "change_percent": -0.006973987028390998
+    },
+    "AMZN": {
+      "price": 233.88,
+      "change_percent": 0.28299459737586685
+    },
+    "JPM": {
+      "price": 308.92,
+      "change_percent": -1.328733869937386
+    },
+    "MSFT": {
+      "price": 486.74,
+      "change_percent": -1.0711164407227458
+    },
+    "META": {
+      "price": 640.87,
+      "change_percent": -1.0926769040821114
+    },
+    "GOOGL": {
+      "price": 314.89,
+      "change_percent": -1.652195639952533
+    },
+    "NVDA": {
+      "price": 179.91,
+      "change_percent": 1.6498107237696975
+    }
+  },
+  "2025-12-02": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 1.0914871070293093
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": -0.20923420281768199
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.23088763468445014
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": -0.33665673960896686
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.6697620906438737
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.9721160297720315
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.2921655181174429
+    },
+    "NVDA": {
+      "price": 181.45,
+      "change_percent": 0.8559835473292157
+    }
+  },
+  "2025-12-10": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-08": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-09": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-18": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 490.0,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 315.81,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 234.42,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 647.1,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 429.24,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 181.46,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 205.42,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 329.62,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 112.41,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 145.86,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.91,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.03,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.19,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-11": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-12": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-13": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-14": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-15": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-16": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-17": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-08-16": {
+    "AAPL": {
+      "price": 231.33,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 784.705,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 231.03,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 288.99,
+      "change_percent": 0.0
+    }
+  },
+  "2025-08-17": {
+    "AAPL": {
+      "price": 231.33,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 784.705,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 231.03,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 288.99,
+      "change_percent": 0.0
+    }
+  },
+  "2025-08-18": {
+    "AAPL": {
+      "price": 230.63,
+      "change_percent": -0.3025980201443898
+    },
+    "META": {
+      "price": 766.845,
+      "change_percent": -2.276014553239754
+    },
+    "AMZN": {
+      "price": 231.49,
+      "change_percent": 0.1991083409081106
+    },
+    "JPM": {
+      "price": 290.03,
+      "change_percent": 0.3598740440845578
+    }
+  },
+  "2025-08-19": {
+    "AAPL": {
+      "price": 230.3,
+      "change_percent": -0.14308632875167326
+    },
+    "META": {
+      "price": 750.955,
+      "change_percent": -2.072126700963035
+    },
+    "AMZN": {
+      "price": 228.01,
+      "change_percent": -1.503304678387843
+    },
+    "JPM": {
+      "price": 289.16,
+      "change_percent": -0.299968968727355
+    }
+  },
+  "2025-08-20": {
+    "AAPL": {
+      "price": 225.75,
+      "change_percent": -1.9756838905775125
+    },
+    "META": {
+      "price": 747.195,
+      "change_percent": -0.5006957807058999
+    },
+    "AMZN": {
+      "price": 223.81,
+      "change_percent": -1.8420244726108455
+    },
+    "JPM": {
+      "price": 290.74,
+      "change_percent": 0.5464102918799225
+    }
+  },
+  "2025-08-21": {
+    "AAPL": {
+      "price": 224.64,
+      "change_percent": -0.4916943521594745
+    },
+    "META": {
+      "price": 738.575,
+      "change_percent": -1.1536479767664403
+    },
+    "AMZN": {
+      "price": 221.95,
+      "change_percent": -0.8310620615700879
+    },
+    "JPM": {
+      "price": 289.97,
+      "change_percent": -0.26484143908646274
+    }
+  },
+  "2025-08-22": {
+    "AAPL": {
+      "price": 227.5,
+      "change_percent": 1.2731481481481544
+    },
+    "META": {
+      "price": 754.265,
+      "change_percent": 2.1243611007683634
+    },
+    "AMZN": {
+      "price": 228.84,
+      "change_percent": 3.1043027708943525
+    },
+    "JPM": {
+      "price": 294.74,
+      "change_percent": 1.6449977583887925
+    }
+  },
+  "2025-08-23": {
+    "AAPL": {
+      "price": 227.5,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 754.265,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 228.84,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 294.74,
+      "change_percent": 0.0
+    }
+  },
+  "2025-08-24": {
+    "AAPL": {
+      "price": 227.5,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 754.265,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 228.84,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 294.74,
+      "change_percent": 0.0
+    }
+  },
+  "2025-08-25": {
+    "AAPL": {
+      "price": 226.9,
+      "change_percent": -0.26373626373626124
+    },
+    "META": {
+      "price": 752.775,
+      "change_percent": -0.19754330374603213
+    },
+    "AMZN": {
+      "price": 227.94,
+      "change_percent": -0.3932878867330911
+    },
+    "JPM": {
+      "price": 293.4,
+      "change_percent": -0.4546379860215891
+    }
+  },
+  "2025-08-26": {
+    "AAPL": {
+      "price": 229.05,
+      "change_percent": 0.9475539885412101
+    },
+    "META": {
+      "price": 753.575,
+      "change_percent": 0.10627345488360641
+    },
+    "AMZN": {
+      "price": 228.71,
+      "change_percent": 0.3378081951390762
+    },
+    "JPM": {
+      "price": 297.07,
+      "change_percent": 1.2508520790729436
+    }
+  },
+  "2025-08-27": {
+    "AAPL": {
+      "price": 230.23,
+      "change_percent": 0.5151713599650637
+    },
+    "META": {
+      "price": 746.855,
+      "change_percent": -0.8917493282022395
+    },
+    "AMZN": {
+      "price": 229.12,
+      "change_percent": 0.17926631979362362
+    },
+    "JPM": {
+      "price": 297.78,
+      "change_percent": 0.23900090887668887
+    }
+  },
+  "2025-08-28": {
+    "AAPL": {
+      "price": 232.3,
+      "change_percent": 0.8991008991009085
+    },
+    "META": {
+      "price": 750.585,
+      "change_percent": 0.4994275997348907
+    },
+    "AMZN": {
+      "price": 231.6,
+      "change_percent": 1.0824022346368671
+    },
+    "JPM": {
+      "price": 299.57,
+      "change_percent": 0.6011149170528647
+    }
+  },
+  "2025-08-29": {
+    "AAPL": {
+      "price": 231.88,
+      "change_percent": -0.18080068876453545
+    },
+    "META": {
+      "price": 738.175,
+      "change_percent": -1.653377032581264
+    },
+    "AMZN": {
+      "price": 229.0,
+      "change_percent": -1.1226252158894623
+    },
+    "JPM": {
+      "price": 299.92,
+      "change_percent": 0.11683412891812356
+    }
+  },
+  "2025-08-30": {
+    "AAPL": {
+      "price": 231.88,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 738.175,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 229.0,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 299.92,
+      "change_percent": 0.0
+    }
+  },
+  "2025-08-31": {
+    "AAPL": {
+      "price": 231.88,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 738.175,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 229.0,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 299.92,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-01": {
+    "AAPL": {
+      "price": 231.88,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 738.175,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 229.0,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 299.92,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-02": {
+    "AAPL": {
+      "price": 229.46,
+      "change_percent": -1.0436432637571105
+    },
+    "META": {
+      "price": 734.585,
+      "change_percent": -0.48633454126730363
+    },
+    "AMZN": {
+      "price": 225.34,
+      "change_percent": -1.598253275109169
+    },
+    "JPM": {
+      "price": 298.2,
+      "change_percent": -0.5734862630034767
+    }
+  },
+  "2025-09-03": {
+    "AAPL": {
+      "price": 238.21,
+      "change_percent": 3.8133007931665652
+    },
+    "META": {
+      "price": 736.525,
+      "change_percent": 0.2640946929218458
+    },
+    "AMZN": {
+      "price": 225.99,
+      "change_percent": 0.2884530043489863
+    },
+    "JPM": {
+      "price": 298.01,
+      "change_percent": -0.06371562709590803
+    }
+  },
+  "2025-09-04": {
+    "AAPL": {
+      "price": 239.52,
+      "change_percent": 0.5499349313630839
+    },
+    "META": {
+      "price": 748.365,
+      "change_percent": 1.6075489630358824
+    },
+    "AMZN": {
+      "price": 235.68,
+      "change_percent": 4.287800345148014
+    },
+    "JPM": {
+      "price": 302.32,
+      "change_percent": 1.446260192610987
+    }
+  },
+  "2025-09-05": {
+    "AAPL": {
+      "price": 239.43,
+      "change_percent": -0.03757515030060262
+    },
+    "META": {
+      "price": 751.925,
+      "change_percent": 0.4757037007342601
+    },
+    "AMZN": {
+      "price": 232.33,
+      "change_percent": -1.4214188730481985
+    },
+    "JPM": {
+      "price": 292.88,
+      "change_percent": -3.122519184969568
+    }
+  },
+  "2025-09-06": {
+    "AAPL": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 751.925,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 232.33,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 292.88,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-07": {
+    "AAPL": {
+      "price": 239.43,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 751.925,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 232.33,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 292.88,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-08": {
+    "AAPL": {
+      "price": 237.62,
+      "change_percent": -0.7559620765985893
+    },
+    "META": {
+      "price": 751.775,
+      "change_percent": -0.019948798084912362
+    },
+    "AMZN": {
+      "price": 235.84,
+      "change_percent": 1.5107820772177467
+    },
+    "JPM": {
+      "price": 291.41,
+      "change_percent": -0.5019120458890912
+    }
+  },
+  "2025-09-09": {
+    "AAPL": {
+      "price": 234.09,
+      "change_percent": -1.485565188115479
+    },
+    "META": {
+      "price": 765.175,
+      "change_percent": 1.7824482059126703
+    },
+    "AMZN": {
+      "price": 238.24,
+      "change_percent": 1.0176390773405724
+    },
+    "JPM": {
+      "price": 296.35,
+      "change_percent": 1.6952060670532916
+    }
+  },
+  "2025-09-10": {
+    "AAPL": {
+      "price": 226.53,
+      "change_percent": -3.229527104959632
+    },
+    "META": {
+      "price": 751.455,
+      "change_percent": -1.7930538765641733
+    },
+    "AMZN": {
+      "price": 230.33,
+      "change_percent": -3.3201813297515095
+    },
+    "JPM": {
+      "price": 299.04,
+      "change_percent": 0.9077104774759567
+    }
+  },
+  "2025-09-11": {
+    "AAPL": {
+      "price": 229.77,
+      "change_percent": 1.430274135876047
+    },
+    "META": {
+      "price": 750.375,
+      "change_percent": -0.1437211809090419
+    },
+    "AMZN": {
+      "price": 229.95,
+      "change_percent": -0.1649806798940754
+    },
+    "JPM": {
+      "price": 304.06,
+      "change_percent": 1.6787051899411387
+    }
+  },
+  "2025-09-12": {
+    "AAPL": {
+      "price": 233.81,
+      "change_percent": 1.7582800191495809
+    },
+    "META": {
+      "price": 755.065,
+      "change_percent": 0.6250208229218797
+    },
+    "AMZN": {
+      "price": 228.15,
+      "change_percent": -0.7827788649706384
+    },
+    "JPM": {
+      "price": 305.41,
+      "change_percent": 0.44399131750313187
+    }
+  },
+  "2025-09-13": {
+    "AAPL": {
+      "price": 233.81,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 755.065,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 228.15,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 305.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-14": {
+    "AAPL": {
+      "price": 233.81,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 755.065,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 228.15,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 305.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-15": {
+    "AAPL": {
+      "price": 236.44,
+      "change_percent": 1.1248449595825651
+    },
+    "META": {
+      "price": 764.175,
+      "change_percent": 1.2065186440902307
+    },
+    "AMZN": {
+      "price": 231.43,
+      "change_percent": 1.4376506684198997
+    },
+    "JPM": {
+      "price": 307.4,
+      "change_percent": 0.6515831177760886
+    }
+  },
+  "2025-09-17": {
+    "AAPL": {
+      "price": 238.73,
+      "change_percent": 0.3531043759720894
+    },
+    "META": {
+      "price": 775.19,
+      "change_percent": -0.4219788689424796
+    },
+    "AMZN": {
+      "price": 231.62,
+      "change_percent": -1.0382396923734274
+    },
+    "JPM": {
+      "price": 310.25,
+      "change_percent": 0.8320062400468011
+    }
+  },
+  "2025-09-18": {
+    "AAPL": {
+      "price": 237.62,
+      "change_percent": -0.464960415532185
+    },
+    "META": {
+      "price": 779.725,
+      "change_percent": 0.5850178665875421
+    },
+    "AMZN": {
+      "price": 231.23,
+      "change_percent": -0.16837924186167635
+    },
+    "JPM": {
+      "price": 311.73,
+      "change_percent": 0.47703464947623475
+    }
+  },
+  "2025-09-19": {
+    "AAPL": {
+      "price": 245.24,
+      "change_percent": 3.206800774345596
+    },
+    "META": {
+      "price": 777.855,
+      "change_percent": -0.239828144538139
+    },
+    "AMZN": {
+      "price": 231.48,
+      "change_percent": 0.10811745880724821
+    },
+    "JPM": {
+      "price": 313.28,
+      "change_percent": 0.4972251628011274
+    }
+  },
+  "2025-09-20": {
+    "AAPL": {
+      "price": 245.24,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 777.855,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 231.48,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 313.28,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-21": {
+    "AAPL": {
+      "price": 245.24,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 777.855,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 231.48,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 313.28,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-22": {
+    "AAPL": {
+      "price": 255.82,
+      "change_percent": 4.3141412493883475
+    },
+    "META": {
+      "price": 765.16,
+      "change_percent": -1.6320522462412723
+    },
+    "AMZN": {
+      "price": 227.63,
+      "change_percent": -1.663210644548123
+    },
+    "JPM": {
+      "price": 310.94,
+      "change_percent": -0.7469356486210339
+    }
+  },
+  "2025-09-23": {
+    "AAPL": {
+      "price": 254.17,
+      "change_percent": -0.6449847549057953
+    },
+    "META": {
+      "price": 755.4,
+      "change_percent": -1.2755502117204234
+    },
+    "AMZN": {
+      "price": 220.71,
+      "change_percent": -3.040021086851464
+    },
+    "JPM": {
+      "price": 311.24,
+      "change_percent": 0.09648163632855579
+    }
+  },
+  "2025-09-24": {
+    "AAPL": {
+      "price": 252.05,
+      "change_percent": -0.8340874218042948
+    },
+    "META": {
+      "price": 760.66,
+      "change_percent": 0.6963198305533481
+    },
+    "AMZN": {
+      "price": 220.21,
+      "change_percent": -0.2265416156948031
+    },
+    "JPM": {
+      "price": 311.92,
+      "change_percent": 0.2184809150494817
+    }
+  },
+  "2025-09-25": {
+    "AAPL": {
+      "price": 256.61,
+      "change_percent": 1.809164848244397
+    },
+    "META": {
+      "price": 748.91,
+      "change_percent": -1.5447111718770543
+    },
+    "AMZN": {
+      "price": 218.15,
+      "change_percent": -0.9354706870714328
+    },
+    "JPM": {
+      "price": 311.95,
+      "change_percent": 0.009617850730947907
+    }
+  },
+  "2025-09-26": {
+    "AAPL": {
+      "price": 255.2,
+      "change_percent": -0.5494719613421242
+    },
+    "META": {
+      "price": 743.75,
+      "change_percent": -0.6890013486266665
+    },
+    "AMZN": {
+      "price": 219.78,
+      "change_percent": 0.7471922988769175
+    },
+    "JPM": {
+      "price": 314.56,
+      "change_percent": 0.8366725436768757
+    }
+  },
+  "2025-09-27": {
+    "AAPL": {
+      "price": 255.2,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 743.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 219.78,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 314.56,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-28": {
+    "AAPL": {
+      "price": 255.2,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 743.75,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 219.78,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 314.56,
+      "change_percent": 0.0
+    }
+  },
+  "2025-09-29": {
+    "AAPL": {
+      "price": 254.17,
+      "change_percent": -0.40360501567398166
+    },
+    "META": {
+      "price": 743.4,
+      "change_percent": -0.047058823529414824
+    },
+    "AMZN": {
+      "price": 222.17,
+      "change_percent": 1.0874510874510812
+    },
+    "JPM": {
+      "price": 314.19,
+      "change_percent": -0.1176246185147522
+    }
+  },
+  "2025-09-30": {
+    "AAPL": {
+      "price": 254.37,
+      "change_percent": 0.07868749262305429
+    },
+    "META": {
+      "price": 734.38,
+      "change_percent": -1.2133440947000245
+    },
+    "AMZN": {
+      "price": 219.57,
+      "change_percent": -1.1702750146284353
+    },
+    "JPM": {
+      "price": 313.93,
+      "change_percent": -0.08275247461726691
+    }
+  },
+  "2025-10-01": {
+    "AAPL": {
+      "price": 255.19,
+      "change_percent": 0.3223650587726513
+    },
+    "META": {
+      "price": 717.34,
+      "change_percent": -2.3203246275769986
+    },
+    "AMZN": {
+      "price": 220.63,
+      "change_percent": 0.4827617616249953
+    },
+    "JPM": {
+      "price": 309.21,
+      "change_percent": -1.503519892969779
+    }
+  },
+  "2025-10-02": {
+    "AAPL": {
+      "price": 256.87,
+      "change_percent": 0.6583330067792652
+    },
+    "META": {
+      "price": 727.05,
+      "change_percent": 1.3536119552792152
+    },
+    "AMZN": {
+      "price": 222.41,
+      "change_percent": 0.8067805828763094
+    },
+    "JPM": {
+      "price": 306.05,
+      "change_percent": -1.0219591863134985
+    }
+  },
+  "2025-10-03": {
+    "AAPL": {
+      "price": 257.76,
+      "change_percent": 0.34647876357690127
+    },
+    "META": {
+      "price": 710.56,
+      "change_percent": -2.2680695963138726
+    },
+    "AMZN": {
+      "price": 219.51,
+      "change_percent": -1.3038982060159192
+    },
+    "JPM": {
+      "price": 308.53,
+      "change_percent": 0.8103251102760859
+    }
+  },
+  "2025-12-19": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-20": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-21": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-22": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-24": {
+    "AAPL": {
+      "price": 286.19,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 307.88,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-27": {
+    "AAPL": {
+      "price": 278.78,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 483.16,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 321.06,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 229.53,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 673.42,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 455.0,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 315.04,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 201.93,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 331.24,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 115.11,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 143.45,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.61,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.95,
+      "change_percent": 0.0
+    }
+  },
+  "2025-12-28": {
+    "AAPL": {
+      "price": 278.78,
+      "change_percent": 0.0
+    },
+    "MSFT": {
+      "price": 483.16,
+      "change_percent": 0.0
+    },
+    "GOOGL": {
+      "price": 321.06,
+      "change_percent": 0.0
+    },
+    "AMZN": {
+      "price": 229.53,
+      "change_percent": 0.0
+    },
+    "META": {
+      "price": 673.42,
+      "change_percent": 0.0
+    },
+    "TSLA": {
+      "price": 455.0,
+      "change_percent": 0.0
+    },
+    "NVDA": {
+      "price": 182.41,
+      "change_percent": 0.0
+    },
+    "JPM": {
+      "price": 315.04,
+      "change_percent": 0.0
+    },
+    "JNJ": {
+      "price": 201.93,
+      "change_percent": 0.0
+    },
+    "V": {
+      "price": 331.24,
+      "change_percent": 0.0
+    },
+    "WMT": {
+      "price": 115.11,
+      "change_percent": 0.0
+    },
+    "PG": {
+      "price": 143.45,
+      "change_percent": 0.0
+    },
+    "MA": {
+      "price": 545.52,
+      "change_percent": 0.0
+    },
+    "HD": {
+      "price": 354.61,
+      "change_percent": 0.0
+    },
+    "BAC": {
+      "price": 53.95,
+      "change_percent": 0.0
+    }
+  }
+}

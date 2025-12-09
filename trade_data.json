@@ -1,0 +1,67 @@
+{
+  "trade_records": [
+    {
+      "date": "2025-10-23",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Buy",
+      "shares": 100,
+      "price": 259.32,
+      "total_amount": 25932.0
+    },
+    {
+      "date": "2025-10-23",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Buy",
+      "shares": 100,
+      "price": 259.32,
+      "total_amount": 25932.0
+    },
+    {
+      "date": "2025-11-14",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Sell",
+      "shares": 100,
+      "price": 272.41,
+      "total_amount": 27241.000000000004
+    },
+    {
+      "date": "2025-11-14",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Sell",
+      "shares": 100,
+      "price": 272.41,
+      "total_amount": 27241.000000000004
+    },
+    {
+      "date": "2025-12-24",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Buy",
+      "shares": 300,
+      "price": 286.19,
+      "total_amount": 85857.0
+    },
+    {
+      "date": "2025-12-28",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Sell",
+      "shares": 300,
+      "price": 278.78,
+      "total_amount": 83633.99999999999
+    }
+  ],
+  "cash": 100378.05089999999,
+  "initial_cash": 100000.0,
+  "portfolio": {},
+  "fee_rate": 0.0001,
+  "min_fee": 1.0,
+  "slippage_per_share": 0.0,
+  "stop_loss_pct": 0.0,
+  "scale_step_pct": 0.0,
+  "scale_fraction_pct": 0.0
+}
