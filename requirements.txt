@@ -1,0 +1,12 @@
+# Core dependencies
+pandas>=1.3.0
+numpy>=1.20.0
+tkcalendar>=1.6.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.3.0
+
+# Real market data (optional)
+# Uncomment the line below if you want real market data support
+# akshare>=1.0.0
+
