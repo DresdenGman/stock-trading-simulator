@@ -1,67 +1,182 @@
 {
   "trade_records": [
     {
-      "date": "2025-10-23",
+      "date": "2025-10-10",
+      "stock_code": "GOOGL",
+      "stock_name": "Google",
+      "trade_type": "Buy",
+      "shares": 150,
+      "price": 155.93,
+      "total_amount": 23389.5
+    },
+    {
+      "date": "2025-10-13",
+      "stock_code": "NVDA",
+      "stock_name": "NVIDIA",
+      "trade_type": "Buy",
+      "shares": 100,
+      "price": 476.7,
+      "total_amount": 47670.0
+    },
+    {
+      "date": "2025-10-28",
+      "stock_code": "GOOGL",
+      "stock_name": "Google",
+      "trade_type": "Sell",
+      "shares": 150,
+      "price": 150.05,
+      "total_amount": 22507.5
+    },
+    {
+      "date": "2025-10-31",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla",
+      "trade_type": "Buy",
+      "shares": 100,
+      "price": 284.87,
+      "total_amount": 28487.0
+    },
+    {
+      "date": "2025-11-03",
       "stock_code": "AAPL",
       "stock_name": "Apple",
       "trade_type": "Buy",
-      "shares": 100,
-      "price": 259.32,
-      "total_amount": 25932.0
+      "shares": 50,
+      "price": 198.96,
+      "total_amount": 9948.0
     },
     {
-      "date": "2025-10-23",
+      "date": "2025-11-06",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla",
+      "trade_type": "Sell",
+      "shares": 100,
+      "price": 238.86,
+      "total_amount": 23886.0
+    },
+    {
+      "date": "2025-11-09",
+      "stock_code": "TSLA",
+      "stock_name": "Tesla",
+      "trade_type": "Buy",
+      "shares": 50,
+      "price": 289.03,
+      "total_amount": 14451.5
+    },
+    {
+      "date": "2025-11-12",
+      "stock_code": "GOOGL",
+      "stock_name": "Google",
+      "trade_type": "Buy",
+      "shares": 100,
+      "price": 134.36,
+      "total_amount": 13436.0
+    },
+    {
+      "date": "2025-11-15",
+      "stock_code": "AAPL",
+      "stock_name": "Apple",
+      "trade_type": "Sell",
+      "shares": 50,
+      "price": 203.88,
+      "total_amount": 10194.0
+    },
+    {
+      "date": "2025-11-18",
       "stock_code": "AAPL",
       "stock_name": "Apple",
       "trade_type": "Buy",
-      "shares": 100,
-      "price": 259.32,
-      "total_amount": 25932.0
+      "shares": 50,
+      "price": 208.51,
+      "total_amount": 10425.5
     },
     {
-      "date": "2025-11-14",
-      "stock_code": "AAPL",
-      "stock_name": "Apple",
+      "date": "2025-11-24",
+      "stock_code": "NVDA",
+      "stock_name": "NVIDIA",
       "trade_type": "Sell",
-      "shares": 100,
-      "price": 272.41,
-      "total_amount": 27241.000000000004
+      "shares": 50,
+      "price": 521.93,
+      "total_amount": 26096.5
     },
     {
-      "date": "2025-11-14",
-      "stock_code": "AAPL",
-      "stock_name": "Apple",
-      "trade_type": "Sell",
-      "shares": 100,
-      "price": 272.41,
-      "total_amount": 27241.000000000004
-    },
-    {
-      "date": "2025-12-24",
-      "stock_code": "AAPL",
-      "stock_name": "Apple",
+      "date": "2025-11-27",
+      "stock_code": "META",
+      "stock_name": "Meta",
       "trade_type": "Buy",
-      "shares": 300,
-      "price": 286.19,
-      "total_amount": 85857.0
+      "shares": 50,
+      "price": 523.48,
+      "total_amount": 26174.0
     },
     {
-      "date": "2025-12-28",
-      "stock_code": "AAPL",
-      "stock_name": "Apple",
+      "date": "2025-12-06",
+      "stock_code": "META",
+      "stock_name": "Meta",
       "trade_type": "Sell",
-      "shares": 300,
-      "price": 278.78,
-      "total_amount": 83633.99999999999
+      "shares": 50,
+      "price": 548.53,
+      "total_amount": 27426.5
     }
   ],
-  "cash": 100378.05089999999,
+  "cash": 36100.59,
   "initial_cash": 100000.0,
-  "portfolio": {},
+  "portfolio": {
+    "NVDA": {
+      "shares": 50,
+      "total_cost": 23835.0
+    },
+    "TSLA": {
+      "shares": 50,
+      "total_cost": 14451.499999999998
+    },
+    "GOOGL": {
+      "shares": 100,
+      "total_cost": 13436.000000000002
+    },
+    "AAPL": {
+      "shares": 50,
+      "total_cost": 10425.5
+    }
+  },
   "fee_rate": 0.0001,
   "min_fee": 1.0,
   "slippage_per_share": 0.0,
   "stop_loss_pct": 0.0,
   "scale_step_pct": 0.0,
-  "scale_fraction_pct": 0.0
+  "scale_fraction_pct": 0.0,
+  "pending_orders": [
+    {
+      "id": "order_001",
+      "code": "AAPL",
+      "name": "Apple",
+      "side": "Buy",
+      "type": "limit",
+      "price": 175.5,
+      "shares": 100,
+      "status": "pending",
+      "created_at": "2025-12-07"
+    },
+    {
+      "id": "order_002",
+      "code": "NVDA",
+      "name": "NVIDIA",
+      "side": "Sell",
+      "type": "stop_loss",
+      "price": 420.0,
+      "shares": 50,
+      "status": "pending",
+      "created_at": "2025-12-08"
+    },
+    {
+      "id": "order_003",
+      "code": "TSLA",
+      "name": "Tesla",
+      "side": "Sell",
+      "type": "take_profit",
+      "price": 280.0,
+      "shares": 75,
+      "status": "pending",
+      "created_at": "2025-12-09"
+    }
+  ]
 }

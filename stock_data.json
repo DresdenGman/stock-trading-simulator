@@ -6039,32 +6039,32 @@
   },
   "2025-12-09": {
     "AAPL": {
-      "price": 286.19,
-      "change_percent": 0.0
-    },
-    "TSLA": {
-      "price": 429.24,
-      "change_percent": 0.0
-    },
-    "AMZN": {
-      "price": 234.42,
-      "change_percent": 0.0
-    },
-    "JPM": {
-      "price": 307.88,
-      "change_percent": 0.0
+      "price": 175.63,
+      "change_percent": -1.55
     },
     "MSFT": {
-      "price": 490.0,
-      "change_percent": 0.0
+      "price": 333.89,
+      "change_percent": 1.17
     },
     "GOOGL": {
-      "price": 315.81,
-      "change_percent": 0.0
+      "price": 142.88,
+      "change_percent": 0.72
     },
     "NVDA": {
-      "price": 182.41,
-      "change_percent": 0.0
+      "price": 451.82,
+      "change_percent": 1.13
+    },
+    "TSLA": {
+      "price": 254.69,
+      "change_percent": -4.65
+    },
+    "AMZN": {
+      "price": 145.13,
+      "change_percent": 3.02
+    },
+    "META": {
+      "price": 513.06,
+      "change_percent": -3.24
     }
   },
   "2025-12-18": {
