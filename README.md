@@ -7,17 +7,7 @@ A comprehensive stock trading simulation platform with advanced features includi
 ### Main Interface
 ![Main Interface](screenshots/main_interface.png)
 
-*The main trading interface showing stock selection, portfolio management, and K-line charts*
-
-### Performance Metrics
-![Performance Metrics](screenshots/performance_metrics.png)
-
-*Real-time performance analytics including equity curve, Sharpe ratio, and drawdown analysis*
-
-### Order Management
-![Order Management](screenshots/order_management.png)
-
-*Advanced order types: limit orders, stop-loss, and take-profit with pending orders table*
+*The main trading interface showing stock selection, portfolio management, K-line charts, and performance metrics*
 
 ## Features
 
