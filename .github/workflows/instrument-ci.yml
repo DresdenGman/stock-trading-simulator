@@ -1,0 +1,38 @@
+name: Instrument checks
+
+on:
+  pull_request:
+    paths:
+      - "instrument/**"
+      - ".github/workflows/instrument-ci.yml"
+  push:
+    branches: [main]
+    paths:
+      - "instrument/**"
+      - ".github/workflows/instrument-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    name: npm ci && npm run check
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: instrument
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ">=22.13.0"
+          cache: npm
+          cache-dependency-path: instrument/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests, type checking, and lint
+        run: npm run check
