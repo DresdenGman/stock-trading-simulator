@@ -1,0 +1,75 @@
+name: Instrument checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  # Runs on every pull request (and on main pushes) so the check always
+  # reports a status. The instrument suite itself only runs when relevant
+  # files changed; otherwise the job completes immediately with success.
+  check:
+    name: Instrument check
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: instrument
+    steps:
+      # Fetch full history so both the base and head revisions of the PR
+      # are present locally. A shallow checkout would make the change
+      # detector below fail.
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2 (reviewed SHA)
+        with:
+          fetch-depth: 0
+
+      - name: Detect relevant changes
+        id: changes
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+            HEAD="${{ github.event.pull_request.head.sha }}"
+            # Fail closed: if either revision is missing the diff is a
+            # workflow error, not "no relevant changes".
+            git cat-file -e "$BASE^{commit}" || { echo "::error::base $BASE not present"; exit 1; }
+            git cat-file -e "$HEAD^{commit}" || { echo "::error::head $HEAD not present"; exit 1; }
+            CHANGED=$(git diff --name-only "$BASE"..."$HEAD")
+          else
+            BEFORE="${{ github.event.before }}"
+            if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || [ -z "$BEFORE" ]; then
+              # First push to main: compare against the empty tree.
+              CHANGED=$(git diff --name-only "$(git hash-object -t tree /dev/null)" "${{ github.sha }}")
+            else
+              git cat-file -e "$BEFORE^{commit}" || { echo "::error::before $BEFORE not present"; exit 1; }
+              CHANGED=$(git diff --name-only "$BEFORE" "${{ github.sha }}")
+            fi
+          fi
+          if echo "$CHANGED" | grep -Eq '^(instrument/|\.github/workflows/instrument-ci\.yml)'; then
+            echo "instrument=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "instrument=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Skip notice (no instrument changes)
+        if: steps.changes.outputs.instrument == 'false'
+        run: echo "No changes under instrument/; instrument check skipped for this change."
+
+      - name: Set up Node.js
+        if: steps.changes.outputs.instrument == 'true'
+        uses: actions/setup-node@1d0ff469b7ec7b3cb9d8673fde0c81c44821de2a # v4.2.0 (reviewed SHA)
+        with:
+          node-version: ">=22.13.0"
+          cache: npm
+          cache-dependency-path: instrument/package-lock.json
+
+      - name: Install dependencies
+        if: steps.changes.outputs.instrument == 'true'
+        run: npm ci
+
+      - name: Run tests, type checking, and lint
+        if: steps.changes.outputs.instrument == 'true'
+        run: npm run check
