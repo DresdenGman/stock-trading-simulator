@@ -33,12 +33,12 @@ Do not include API keys, passwords, private datasets, personal information, or b
 
 Maintainers process incoming reports as follows:
 
-1. **Label** — each report receives one of `bug`, `enhancement`, `documentation`, `reproduction`, or `methodological`, matching the form it came in through. A report that arrives on the wrong form is relabeled, not closed.
+1. **Label** — each report is labeled to match the form it came in through: `bug` for product defects, `documentation` for documentation corrections, `enhancement` for feature requests, `reproduction` for reproduction reports, and `methodology`/`external-review` for methodological challenges. A report that arrives on the wrong form is relabeled, not closed. Labels that do not exist in the repository are created before use so issue filters stay accurate.
 2. **Confirm** — a maintainer reproduces the report or verifies the documentation claim before work begins. Reports that cannot be confirmed are left open with a request for the missing revision, environment, or reproduction detail, and closed only after the reporter is given a clear chance to provide it.
 3. **Close** — a report is closed when the fix is merged and verified, when the described behavior is confirmed intentional and documented, or when the report is withdrawn. Every closure states the reason in a comment.
 4. **Route** — reproduction mismatches stay on the Reproduction Report form and methodological objections stay on the Methodological Challenge form; product defects, documentation corrections, and feature requests use the forms added for them.
 
-Sensitive content is removed on sight. Reporters must not include credentials, private datasets, personal information, or brokerage details; a report that does is edited to remove them before triage proceeds.
+Sensitive content is handled as follows. Reporters must not include credentials, private datasets, personal information, or brokerage details. If credentials or secrets are exposed in a report or its attachments, maintainers ask the reporter to **revoke or rotate the affected credentials immediately**; editing or deleting the text does not invalidate a secret. Where possible, the offending comment or attachment is also removed or hidden, and the incident is noted in the issue so the exposure remains visible to the reporter and reviewers.
 
 ## Development checks
 
