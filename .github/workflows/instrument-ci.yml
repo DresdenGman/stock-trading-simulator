@@ -19,7 +19,12 @@ jobs:
       run:
         working-directory: instrument
     steps:
+      # Fetch full history so both the base and head revisions of the PR
+      # are present locally. A shallow checkout would make the change
+      # detector below fail.
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2 (reviewed SHA)
+        with:
+          fetch-depth: 0
 
       - name: Detect relevant changes
         id: changes
@@ -28,13 +33,18 @@ jobs:
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             BASE="${{ github.event.pull_request.base.sha }}"
             HEAD="${{ github.event.pull_request.head.sha }}"
-            git fetch --depth=1 origin "$BASE" 2>/dev/null || true
-            CHANGED=$(git diff --name-only "$BASE"..."$HEAD" 2>/dev/null || echo "")
+            # Fail closed: if either revision is missing the diff is a
+            # workflow error, not "no relevant changes".
+            git cat-file -e "$BASE^{commit}" || { echo "::error::base $BASE not present"; exit 1; }
+            git cat-file -e "$HEAD^{commit}" || { echo "::error::head $HEAD not present"; exit 1; }
+            CHANGED=$(git diff --name-only "$BASE"..."$HEAD")
           else
             BEFORE="${{ github.event.before }}"
             if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || [ -z "$BEFORE" ]; then
-              CHANGED=$(git diff --name-only "HEAD~1" "${{ github.sha }}" 2>/dev/null || echo "instrument/")
+              # First push to main: compare against the empty tree.
+              CHANGED=$(git diff --name-only "$(git hash-object -t tree /dev/null)" "${{ github.sha }}")
             else
+              git cat-file -e "$BEFORE^{commit}" || { echo "::error::before $BEFORE not present"; exit 1; }
               CHANGED=$(git diff --name-only "$BEFORE" "${{ github.sha }}")
             fi
           fi
