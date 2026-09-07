@@ -2,37 +2,64 @@ name: Instrument checks
 
 on:
   pull_request:
-    paths:
-      - "instrument/**"
-      - ".github/workflows/instrument-ci.yml"
   push:
     branches: [main]
-    paths:
-      - "instrument/**"
-      - ".github/workflows/instrument-ci.yml"
 
 permissions:
   contents: read
 
 jobs:
+  # Runs on every pull request (and on main pushes) so the check always
+  # reports a status. The instrument suite itself only runs when relevant
+  # files changed; otherwise the job completes immediately with success.
   check:
-    name: npm ci && npm run check
+    name: Instrument check
     runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: instrument
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2 (reviewed SHA)
+
+      - name: Detect relevant changes
+        id: changes
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+            HEAD="${{ github.event.pull_request.head.sha }}"
+            git fetch --depth=1 origin "$BASE" 2>/dev/null || true
+            CHANGED=$(git diff --name-only "$BASE"..."$HEAD" 2>/dev/null || echo "")
+          else
+            BEFORE="${{ github.event.before }}"
+            if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || [ -z "$BEFORE" ]; then
+              CHANGED=$(git diff --name-only "HEAD~1" "${{ github.sha }}" 2>/dev/null || echo "instrument/")
+            else
+              CHANGED=$(git diff --name-only "$BEFORE" "${{ github.sha }}")
+            fi
+          fi
+          if echo "$CHANGED" | grep -Eq '^(instrument/|\.github/workflows/instrument-ci\.yml)'; then
+            echo "instrument=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "instrument=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Skip notice (no instrument changes)
+        if: steps.changes.outputs.instrument == 'false'
+        run: echo "No changes under instrument/; instrument check skipped for this change."
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        if: steps.changes.outputs.instrument == 'true'
+        uses: actions/setup-node@1d0ff469b7ec7b3cb9d8673fde0c81c44821de2a # v4.2.0 (reviewed SHA)
         with:
           node-version: ">=22.13.0"
           cache: npm
           cache-dependency-path: instrument/package-lock.json
 
       - name: Install dependencies
+        if: steps.changes.outputs.instrument == 'true'
         run: npm ci
 
       - name: Run tests, type checking, and lint
+        if: steps.changes.outputs.instrument == 'true'
         run: npm run check
