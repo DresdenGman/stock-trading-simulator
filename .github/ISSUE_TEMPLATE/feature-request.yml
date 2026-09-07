@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        EPSILON is a research environment, not a feature factory. A strong request says which research or evidence workflow the change improves and how it preserves the evidence standard.
+        EPSILON is a research environment, not a feature factory. A strong request says which research or evidence workflow the change improves and how it preserves the evidence standard. Do not include credentials, private datasets, personal information, or brokerage details.
   - type: textarea
     id: workflow
     attributes:

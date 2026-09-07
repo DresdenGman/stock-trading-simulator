@@ -29,6 +29,17 @@ Do not include API keys, passwords, private datasets, personal information, or b
 - Do not solicit or coordinate Stars, votes, comments, or endorsements.
 - Reviewers are quoted by name only with permission.
 
+## Issue triage
+
+Maintainers process incoming reports as follows:
+
+1. **Label** — each report receives one of `bug`, `enhancement`, `documentation`, `reproduction`, or `methodological`, matching the form it came in through. A report that arrives on the wrong form is relabeled, not closed.
+2. **Confirm** — a maintainer reproduces the report or verifies the documentation claim before work begins. Reports that cannot be confirmed are left open with a request for the missing revision, environment, or reproduction detail, and closed only after the reporter is given a clear chance to provide it.
+3. **Close** — a report is closed when the fix is merged and verified, when the described behavior is confirmed intentional and documented, or when the report is withdrawn. Every closure states the reason in a comment.
+4. **Route** — reproduction mismatches stay on the Reproduction Report form and methodological objections stay on the Methodological Challenge form; product defects, documentation corrections, and feature requests use the forms added for them.
+
+Sensitive content is removed on sight. Reporters must not include credentials, private datasets, personal information, or brokerage details; a report that does is edited to remove them before triage proceeds.
+
 ## Development checks
 
 Before a pull request, run the relevant tests for the surface you changed. For the current web evidence instrument, the public acceptance criteria are a working no-login path, explicit provenance, a pre-specified rejection rule, and an exportable evidence artifact.
