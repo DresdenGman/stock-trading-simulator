@@ -1,0 +1,48 @@
+name: Documentation correction
+description: Report an error, gap, or ambiguity in the documentation or repository guides.
+title: "[DOCS]: "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Documentation corrections help keep the current instrument and the historical record clearly separated. Please point to the exact file or page you mean.
+  - type: input
+    id: location
+    attributes:
+      label: Affected file or page
+      description: Repository path, docs/ file, or public page URL.
+      placeholder: README.md, docs/REPRODUCIBILITY.md, /lab page
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or missing?
+      description: Quote the current text if useful, then describe the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: What should the text say instead? A suggested edit is welcome.
+    validations:
+      required: false
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Is this about the current product or historical material?
+      options:
+        - Current instrument (/lab workflow)
+        - Historical / legacy documentation
+        - Unsure - the docs conflict
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I removed all credentials, private datasets, and personal information.
+          required: true

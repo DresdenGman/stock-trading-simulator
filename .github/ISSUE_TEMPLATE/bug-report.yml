@@ -1,0 +1,70 @@
+name: Bug report
+description: Report a product defect in the current instrument or a supported integration.
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file this report. Before you submit, please check that the defect is reproducible on the current release. Do not include credentials, private datasets, personal information, or brokerage details.
+  - type: input
+    id: revision
+    attributes:
+      label: Release, tag, or commit SHA
+      description: Identify the exact source state you tested.
+      placeholder: v2.0.0 or a full commit SHA
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where does the defect appear?
+      options:
+        - Public instrument (/lab workflow)
+        - Historical-data mode (provider-backed)
+        - Evidence export or receipt
+        - Documentation or repository tooling
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, browser and version, Node/Python versions, and anything else that may affect the result.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: List the exact steps that trigger the defect.
+      placeholder: |
+        1. Open ...
+        2. Run ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should happen instead?
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Observed behavior
+      description: What actually happened? Include logs, error messages, or screenshots.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I removed all credentials, private datasets, and personal information.
+          required: true
+        - label: I checked that the defect is not already reported.
+          required: true
