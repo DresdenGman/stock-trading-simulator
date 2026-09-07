@@ -1,0 +1,37 @@
+name: Feature request
+description: Propose a change that improves a research or evidence workflow.
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        EPSILON is a research environment, not a feature factory. A strong request says which research or evidence workflow the change improves and how it preserves the evidence standard. Do not include credentials, private datasets, personal information, or brokerage details.
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Which workflow does this improve?
+      description: Name the workflow or step in the decision cycle (Observe, Frame, Test, Interrogate, Refine, Retest) or the evidence pipeline.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: Describe what you want to add or change and why it matters.
+    validations:
+      required: true
+  - type: textarea
+    id: tradeoffs
+    attributes:
+      label: Trade-offs and risks
+      description: What could break, and how does the change affect provenance, reproducibility, or the public claims policy?
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I understand EPSILON is not a trading recommendation engine and this change serves the research or evidence workflow.
+          required: true
